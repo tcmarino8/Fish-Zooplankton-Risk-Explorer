@@ -28,7 +28,8 @@ Visualize spatial distributions of fish and zooplankton sampling stations across
    
 
 ### Phenology of Risk  
-Monthly critical decline risk for each fish species by region.  
+This visualizes how the probability of a critical population decline (≥90% drop) changes month by month for each fish species across estuarine regions.
+
 - Points scale by the percentage of annual catch  
 - Saturated colors = high-abundance months (80% annual catch window)  
 - Desaturated colors = low-abundance months
@@ -38,7 +39,8 @@ Monthly critical decline risk for each fish species by region.
    - Months(SliderInput multiple = TRUE)
 
 ###  1-Year Risk Predictions  
-Compare mean risk of fish species during their high-abundance periods with that of their zooplankton prey over a one-year window.  
+This plot compares present-day (near-term) decline risk between fish predators and their zooplankton prey within their shared high-abundance windows.
+Each point or bar pairs a fish with its co-occurring prey community.
 - Error bars represent “best-case” and “worst-case” model uncertainty bounds
     #### SideBar Selections:
    - Select Regions(checkbox multiple = TRUE)
@@ -47,7 +49,8 @@ Compare mean risk of fish species during their high-abundance periods with that 
    - Years From Present(Single Value SliderInput multiple = TRUE)
 
 ###  10-Year Risk Projections  
-Explore projected risk trends over a 10-year period.  
+A 10-year projection of critical decline risk for fish and zooplankton assemblage, based on time-series population trends and variability.
+
 - Fish = solid lines  
 - Zooplankton = dashed lines  
 - Shaded areas = uncertainty range  
