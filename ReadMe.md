@@ -106,7 +106,7 @@ https://12022001delta.shinyapps.io/DeclineRisk/'
 
 ## Bug Reporting
 'If you encounter any bugs or have questions about the app, please contact:
-📧 Tyler Marino — tylermarino.research@gmail.com'
+ Tyler Marino — tylermarino.research@gmail.com'
 
 
 ## Installation & Usage
