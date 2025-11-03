@@ -1,0 +1,871 @@
+Region,Taxa,Timesteps,Group,Probability,Best,Worst,Predator
+Suisun Bay,Acartiella,1,Zoop,21.50140537,13.5585669,33.29642763,Northern anchovy
+Suisun Bay,Limnoithona,1,Zoop,25.43123623,18.14720591,36.18317991,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,1,Zoop,18.18255293,6.538541199,36.04582294,Northern anchovy
+Suisun Bay,Pseudodiaptomus,1,Zoop,25.60111449,17.94010489,35.6801409,Northern anchovy
+Suisun Bay,Eurytemora,1,Zoop,26.3015579,15.26156778,41.09511256,Northern anchovy
+San Pablo Bay,Acartia,1,Zoop,5.857009363,1.338868473,17.17544493,Northern anchovy
+Suisun Bay,Acartia,1,Zoop,25.9762965,11.41548594,44.79918514,Northern anchovy
+San Pablo Bay,Oithona,1,Zoop,15.11157143,6.182581534,26.90449804,Northern anchovy
+Suisun Bay,Oithona,1,Zoop,19.21917494,7.93339953,35.51714015,Northern anchovy
+Suisun Bay,Tortanus,1,Zoop,7.322808225,2.216282997,19.15360614,Northern anchovy
+San Pablo Bay,Engraulis mordax,1,Fish,32.3671652,27.23768949,39.55704807,Northern anchovy
+Suisun Bay,Engraulis mordax,1,Fish,26.22775664,18.36642547,36.97954489,Northern anchovy
+Suisun Bay,Acartiella,2,Zoop,38.10033191,27.6080455,52.88639772,Northern anchovy
+Suisun Bay,Limnoithona,2,Zoop,42.0389536,33.20414747,54.96129321,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,2,Zoop,33.23646504,14.51250029,56.34655084,Northern anchovy
+Suisun Bay,Pseudodiaptomus,2,Zoop,43.07695976,33.74715885,55.2765679,Northern anchovy
+Suisun Bay,Eurytemora,2,Zoop,42.09703203,26.7789426,59.57442262,Northern anchovy
+San Pablo Bay,Acartia,2,Zoop,17.16798319,7.424039449,37.24093922,Northern anchovy
+Suisun Bay,Acartia,2,Zoop,41.82162416,20.64231579,63.88589811,Northern anchovy
+San Pablo Bay,Oithona,2,Zoop,25.02660205,10.52022368,43.05422725,Northern anchovy
+Suisun Bay,Oithona,2,Zoop,33.50455369,15.51067333,55.19463088,Northern anchovy
+Suisun Bay,Tortanus,2,Zoop,18.16525514,7.741108435,39.50747035,Northern anchovy
+San Pablo Bay,Engraulis mordax,2,Fish,48.4767477,42.97521865,56.54352664,Northern anchovy
+Suisun Bay,Engraulis mordax,2,Fish,42.59474522,33.16759309,55.17150391,Northern anchovy
+Suisun Bay,Acartiella,3,Zoop,47.45970554,35.32010497,63.1859219,Northern anchovy
+Suisun Bay,Limnoithona,3,Zoop,51.09216902,41.26674896,64.64646267,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,3,Zoop,42.33470853,17.02344174,67.14611365,Northern anchovy
+Suisun Bay,Pseudodiaptomus,3,Zoop,52.6931078,42.76975287,65.4337185,Northern anchovy
+Suisun Bay,Eurytemora,3,Zoop,50.8141548,31.75175846,68.99458892,Northern anchovy
+San Pablo Bay,Acartia,3,Zoop,25.8313194,11.18501784,50.06558441,Northern anchovy
+Suisun Bay,Acartia,3,Zoop,50.68709502,23.7063996,73.43315427,Northern anchovy
+San Pablo Bay,Oithona,3,Zoop,31.86602919,12.122701,54.22167046,Northern anchovy
+Suisun Bay,Oithona,3,Zoop,42.26362114,18.49040417,65.99537637,Northern anchovy
+Suisun Bay,Tortanus,3,Zoop,26.636104,12.14276271,52.76216554,Northern anchovy
+San Pablo Bay,Engraulis mordax,3,Fish,56.83977058,51.11706597,65.11600569,Northern anchovy
+Suisun Bay,Engraulis mordax,3,Fish,51.49457592,41.01372644,64.54868236,Northern anchovy
+Suisun Bay,Acartiella,4,Zoop,53.57386048,39.89074203,69.67775284,Northern anchovy
+Suisun Bay,Limnoithona,4,Zoop,56.94004751,46.14350407,70.72178249,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,4,Zoop,48.46389621,16.69410578,73.92127157,Northern anchovy
+Suisun Bay,Pseudodiaptomus,4,Zoop,58.92467716,48.59236526,71.79097675,Northern anchovy
+Suisun Bay,Eurytemora,4,Zoop,56.47568587,33.80302958,74.84749563,Northern anchovy
+San Pablo Bay,Acartia,4,Zoop,32.21990985,11.81162078,58.79796233,Northern anchovy
+Suisun Bay,Acartia,4,Zoop,56.481269,24.11988998,79.25099787,Northern anchovy
+San Pablo Bay,Oithona,4,Zoop,37.12563211,12.98391789,62.30796123,Northern anchovy
+Suisun Bay,Oithona,4,Zoop,48.24758018,19.02638279,72.87630104,Northern anchovy
+Suisun Bay,Tortanus,4,Zoop,33.09468808,14.4677571,61.81855143,Northern anchovy
+San Pablo Bay,Engraulis mordax,4,Fish,62.13851495,56.1484645,70.47425688,Northern anchovy
+Suisun Bay,Engraulis mordax,4,Fish,57.2361847,45.69772438,70.43919252,Northern anchovy
+Suisun Bay,Acartiella,5,Zoop,57.94913776,42.77634001,74.20646273,Northern anchovy
+Suisun Bay,Limnoithona,5,Zoop,61.10584269,49.3396114,74.95751104,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,5,Zoop,52.92024227,15.30437976,78.59655749,Northern anchovy
+Suisun Bay,Pseudodiaptomus,5,Zoop,63.36988689,52.67668853,76.2041086,Northern anchovy
+Suisun Bay,Eurytemora,5,Zoop,60.51713097,34.49173076,78.88952038,Northern anchovy
+San Pablo Bay,Acartia,5,Zoop,37.06715962,10.77448873,65.1313009,Northern anchovy
+Suisun Bay,Acartia,5,Zoop,60.63212884,23.47623118,83.19078165,Northern anchovy
+San Pablo Bay,Oithona,5,Zoop,41.33862002,13.29039909,68.37931289,Northern anchovy
+Suisun Bay,Oithona,5,Zoop,52.64386314,18.42674554,77.66681068,Northern anchovy
+Suisun Bay,Tortanus,5,Zoop,38.15084924,15.19079698,68.36175151,Northern anchovy
+San Pablo Bay,Engraulis mordax,5,Fish,65.87351478,59.58373146,74.21670671,Northern anchovy
+Suisun Bay,Engraulis mordax,5,Fish,61.32195331,48.72055216,74.55392928,Northern anchovy
+Suisun Bay,Acartiella,6,Zoop,61.27148247,44.67251687,77.57401459,Northern anchovy
+Suisun Bay,Limnoithona,6,Zoop,64.26401893,51.54460158,78.11115035,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,6,Zoop,56.33397737,13.6743122,82.02546322,Northern anchovy
+Suisun Bay,Pseudodiaptomus,6,Zoop,66.74177873,55.70573706,79.4726374,Northern anchovy
+Suisun Bay,Eurytemora,6,Zoop,63.58212225,34.51560834,81.87027257,Northern anchovy
+San Pablo Bay,Acartia,6,Zoop,40.85893529,9.150687065,69.94362987,Northern anchovy
+Suisun Bay,Acartia,6,Zoop,63.78723996,22.4590369,86.03949126,Northern anchovy
+San Pablo Bay,Oithona,6,Zoop,44.80309512,13.10845006,73.07894121,Northern anchovy
+Suisun Bay,Oithona,6,Zoop,56.03897485,17.37013754,81.20025068,Northern anchovy
+Suisun Bay,Tortanus,6,Zoop,42.2235604,14.92646226,73.29644434,Northern anchovy
+San Pablo Bay,Engraulis mordax,6,Fish,68.68608133,62.08082465,77.01452201,Northern anchovy
+Suisun Bay,Engraulis mordax,6,Fish,64.41635034,50.76944088,77.62394587,Northern anchovy
+Suisun Bay,Acartiella,7,Zoop,63.90099968,45.94759931,80.19030513,Northern anchovy
+Suisun Bay,Limnoithona,7,Zoop,66.76338613,53.11826137,80.56664168,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,7,Zoop,59.04883918,12.14009548,84.64865226,Northern anchovy
+Suisun Bay,Pseudodiaptomus,7,Zoop,69.41062975,58.04213656,82.00306455,Northern anchovy
+Suisun Bay,Eurytemora,7,Zoop,66.00620193,34.21218067,84.16897745,Northern anchovy
+San Pablo Bay,Acartia,7,Zoop,43.90226607,7.489690318,73.72866062,Northern anchovy
+Suisun Bay,Acartia,7,Zoop,66.28648147,21.36662095,88.19348024,Northern anchovy
+San Pablo Bay,Oithona,7,Zoop,47.7101852,12.57679574,76.80801159,Northern anchovy
+Suisun Bay,Oithona,7,Zoop,58.75705549,16.19185331,83.91403013,Northern anchovy
+Suisun Bay,Tortanus,7,Zoop,45.58503616,14.1302789,77.14080084,Northern anchovy
+San Pablo Bay,Engraulis mordax,7,Fish,70.901435,63.97528275,79.20456543,Northern anchovy
+Suisun Bay,Engraulis mordax,7,Fish,66.86283091,52.202295,80.01960633,Northern anchovy
+Suisun Bay,Acartiella,8,Zoop,66.04663929,46.81330952,82.28888933,Northern anchovy
+Suisun Bay,Limnoithona,8,Zoop,68.80446928,54.26689977,82.54165796,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,8,Zoop,61.26934062,10.81787453,86.71850793,Northern anchovy
+Suisun Bay,Pseudodiaptomus,8,Zoop,71.58985356,59.89733664,84.02618276,Northern anchovy
+Suisun Bay,Eurytemora,8,Zoop,67.98331798,33.75432968,86.00022969,Northern anchovy
+San Pablo Bay,Acartia,8,Zoop,46.39648535,6.020524527,76.78515693,Northern anchovy
+Suisun Bay,Acartia,8,Zoop,68.32719462,20.32721265,89.87594871,Northern anchovy
+San Pablo Bay,Oithona,8,Zoop,50.18985512,11.84456578,79.8270526,Northern anchovy
+Suisun Bay,Oithona,8,Zoop,60.99293349,15.05044065,86.0614718,Northern anchovy
+Suisun Bay,Tortanus,8,Zoop,48.41575528,13.09363432,80.2117472,Northern anchovy
+San Pablo Bay,Engraulis mordax,8,Fish,72.70419366,65.45770478,80.97673093,Northern anchovy
+Suisun Bay,Engraulis mordax,8,Fish,68.85877204,53.223766,81.95087056,Northern anchovy
+Suisun Bay,Acartiella,9,Zoop,67.83887363,47.39923804,84.01363092,Northern anchovy
+Suisun Bay,Limnoithona,9,Zoop,70.51170083,55.11738069,84.16985469,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,9,Zoop,63.12545911,9.72805924,88.39084046,Northern anchovy
+Suisun Bay,Pseudodiaptomus,9,Zoop,73.41211167,61.40356985,85.68377461,Northern anchovy
+Suisun Bay,Eurytemora,9,Zoop,69.63428598,33.23383481,87.49553023,Northern anchovy
+San Pablo Bay,Acartia,9,Zoop,48.47580608,4.810122565,79.30491877,Northern anchovy
+Suisun Bay,Acartia,9,Zoop,70.03270591,19.39102497,91.2229645,Northern anchovy
+San Pablo Bay,Oithona,9,Zoop,52.33390021,11.03109561,82.31188646,Northern anchovy
+Suisun Bay,Oithona,9,Zoop,62.87142267,14.01448753,87.80022294,Northern anchovy
+Suisun Bay,Tortanus,9,Zoop,50.83928305,11.99002251,82.7140217,Northern anchovy
+San Pablo Bay,Engraulis mordax,9,Fish,74.20790814,66.64507359,82.44721138,Northern anchovy
+Suisun Bay,Engraulis mordax,9,Fish,70.52661887,53.95925595,83.54667407,Northern anchovy
+Suisun Bay,Acartiella,10,Zoop,69.36385864,47.78865813,85.45850035,Northern anchovy
+Suisun Bay,Limnoithona,10,Zoop,71.96688648,55.75199739,85.53835469,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,10,Zoop,64.70415289,8.852342401,89.76745835,Northern anchovy
+Suisun Bay,Pseudodiaptomus,10,Zoop,74.96472877,62.64810452,87.0682539,Northern anchovy
+Suisun Bay,Eurytemora,10,Zoop,71.03875809,32.70019673,88.74041328,Northern anchovy
+San Pablo Bay,Acartia,10,Zoop,50.23375456,3.852403762,81.41704301,Northern anchovy
+Suisun Bay,Acartia,10,Zoop,71.48452038,18.57190706,92.32254978,Northern anchovy
+San Pablo Bay,Oithona,10,Zoop,54.20910853,10.21756453,84.38524974,Northern anchovy
+Suisun Bay,Oithona,10,Zoop,64.4765627,13.10720351,89.23391423,Northern anchovy
+Suisun Bay,Tortanus,10,Zoop,52.94293409,10.91670843,84.78591236,Northern anchovy
+San Pablo Bay,Engraulis mordax,10,Fish,75.48674017,67.61349944,83.69158577,Northern anchovy
+Suisun Bay,Engraulis mordax,10,Fish,71.94685123,54.48977511,84.89108327,Northern anchovy
+San Pablo Bay,Pseudodiaptomus,1,Zoop,23.72805317,8.26393627,44.98760097,Pacific herring
+San Pablo Bay,Acartia,1,Zoop,19.70678542,8.71936138,33.08258711,Pacific herring
+San Pablo Bay,Oithona,1,Zoop,19.41237085,6.192726638,39.77553984,Pacific herring
+San Pablo Bay,Clupea pallasii,1,Fish,32.24674024,27.02601868,40.0345548,Pacific herring
+San Pablo Bay,Pseudodiaptomus,2,Zoop,40.39437162,17.49893887,65.06151609,Pacific herring
+San Pablo Bay,Acartia,2,Zoop,30.52124648,13.3904006,50.38063588,Pacific herring
+San Pablo Bay,Oithona,2,Zoop,35.82033663,15.05768404,60.77717364,Pacific herring
+San Pablo Bay,Clupea pallasii,2,Fish,48.40330468,42.86521259,57.18201453,Pacific herring
+San Pablo Bay,Pseudodiaptomus,3,Zoop,49.67964256,20.3639956,74.85309972,Pacific herring
+San Pablo Bay,Acartia,3,Zoop,37.87772977,15.59145928,61.3857609,Pacific herring
+San Pablo Bay,Oithona,3,Zoop,45.32181554,17.93932572,71.34704919,Pacific herring
+San Pablo Bay,Clupea pallasii,3,Fish,56.75759581,51.00121893,65.78931887,Pacific herring
+San Pablo Bay,Pseudodiaptomus,4,Zoop,55.7294125,20.42765594,80.72186456,Pacific herring
+San Pablo Bay,Acartia,4,Zoop,43.34192382,16.55446229,68.9017115,Pacific herring
+San Pablo Bay,Oithona,4,Zoop,51.59821608,17.92070286,77.77836343,Pacific herring
+San Pablo Bay,Clupea pallasii,4,Fish,62.0424218,56.00223211,71.15456435,Pacific herring
+San Pablo Bay,Pseudodiaptomus,5,Zoop,60.05813222,19.44100443,84.64349603,Pacific herring
+San Pablo Bay,Acartia,5,Zoop,47.5899072,16.56336956,74.33314207,Pacific herring
+San Pablo Bay,Oithona,5,Zoop,56.11755168,16.81127101,82.12033199,Pacific herring
+San Pablo Bay,Clupea pallasii,5,Fish,65.76481871,59.40073381,74.89484721,Pacific herring
+San Pablo Bay,Pseudodiaptomus,6,Zoop,63.34815735,18.14028629,87.44573618,Pacific herring
+San Pablo Bay,Acartia,6,Zoop,51.00498223,15.96829026,78.42725212,Pacific herring
+San Pablo Bay,Oithona,6,Zoop,59.5630377,15.39659967,85.24859293,Pacific herring
+San Pablo Bay,Clupea pallasii,6,Fish,68.56688327,61.86002649,77.68687754,Pacific herring
+San Pablo Bay,Pseudodiaptomus,7,Zoop,65.95584065,16.83200273,89.5413585,Pacific herring
+San Pablo Bay,Acartia,7,Zoop,53.82278381,15.06779642,81.61295428,Pacific herring
+San Pablo Bay,Oithona,7,Zoop,62.29768444,14.0010804,87.60488125,Pacific herring
+San Pablo Bay,Clupea pallasii,7,Fish,70.77363762,63.71747826,79.8695993,Pacific herring
+San Pablo Bay,Pseudodiaptomus,8,Zoop,68.08733472,15.63728686,91.16104984,Pacific herring
+San Pablo Bay,Acartia,8,Zoop,56.1963073,14.06427635,84.15343095,Pacific herring
+San Pablo Bay,Oithona,8,Zoop,64.53376282,12.74767353,89.43804055,Pacific herring
+San Pablo Bay,Clupea pallasii,8,Fish,72.56936407,65.16433484,81.63380656,Pacific herring
+San Pablo Bay,Pseudodiaptomus,9,Zoop,69.87112641,14.59527186,92.44455675,Pacific herring
+San Pablo Bay,Acartia,9,Zoop,58.22936031,13.07771559,86.21917307,Pacific herring
+San Pablo Bay,Oithona,9,Zoop,66.40454161,11.67121287,90.89972889,Pacific herring
+San Pablo Bay,Clupea pallasii,9,Fish,74.06731042,66.31777574,83.09611774,Pacific herring
+San Pablo Bay,Pseudodiaptomus,10,Zoop,71.39196015,13.70888437,93.48178113,Pacific herring
+San Pablo Bay,Acartia,10,Zoop,59.99499507,12.17100568,87.92558298,Pacific herring
+San Pablo Bay,Oithona,10,Zoop,67.99838103,10.76884341,92.0879904,Pacific herring
+San Pablo Bay,Clupea pallasii,10,Fish,75.34139401,67.25392506,84.33232426,Pacific herring
+San Pablo Bay,Pseudodiaptomus,1,Zoop,12.47706149,4.046154532,27.75760098,Jack silverside
+San Pablo Bay,Acartia,1,Zoop,4.249124379,0.99790897,12.77396535,Jack silverside
+San Pablo Bay,Oithona,1,Zoop,8.867881532,3.520231453,17.80177302,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,1,Fish,27.12813718,9.381164348,47.94380627,Jack silverside
+San Pablo Bay,Pseudodiaptomus,2,Zoop,26.02969148,10.97793039,48.55757721,Jack silverside
+San Pablo Bay,Acartia,2,Zoop,13.11798746,5.548764256,30.44297164,Jack silverside
+San Pablo Bay,Oithona,2,Zoop,16.51338649,6.511256988,34.36193483,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,2,Fish,43.40170276,18.41173734,66.65624234,Jack silverside
+San Pablo Bay,Pseudodiaptomus,3,Zoop,35.10402632,14.13718486,60.50354277,Jack silverside
+San Pablo Bay,Acartia,3,Zoop,20.64097139,9.015975011,43.13801191,Jack silverside
+San Pablo Bay,Oithona,3,Zoop,23.07908092,9.104934966,47.01461564,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,3,Fish,52.30480888,21.05481428,75.73751154,Jack silverside
+San Pablo Bay,Pseudodiaptomus,4,Zoop,41.48440978,14.35954539,68.24791407,Jack silverside
+San Pablo Bay,Acartia,4,Zoop,26.55939142,10.29662961,52.31160278,Jack silverside
+San Pablo Bay,Oithona,4,Zoop,28.56599155,11.21594554,56.39223524,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,4,Fish,58.06098981,20.99381804,81.19246657,Jack silverside
+San Pablo Bay,Pseudodiaptomus,5,Zoop,46.23025544,13.21591991,73.69521741,Jack silverside
+San Pablo Bay,Acartia,5,Zoop,31.24173215,10.02103593,59.20337279,Jack silverside
+San Pablo Bay,Oithona,5,Zoop,33.13727077,12.41945722,63.48739759,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,5,Fish,62.15919622,19.97252381,84.85301929,Jack silverside
+San Pablo Bay,Pseudodiaptomus,6,Zoop,49.91582554,11.63144441,77.74280044,Jack silverside
+San Pablo Bay,Acartia,6,Zoop,35.01186086,8.941795053,64.56290706,Jack silverside
+San Pablo Bay,Oithona,6,Zoop,36.98165392,12.74539936,68.99403022,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,6,Fish,65.26205446,18.69840664,87.48215012,Jack silverside
+San Pablo Bay,Pseudodiaptomus,7,Zoop,52.87268839,10.04608339,80.8697999,Jack silverside
+San Pablo Bay,Acartia,7,Zoop,38.10223395,7.580668513,68.84808171,Jack silverside
+San Pablo Bay,Oithona,7,Zoop,40.25503961,12.43115766,73.36573027,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,7,Fish,67.71335179,17.45118947,89.45941984,Jack silverside
+San Pablo Bay,Pseudodiaptomus,8,Zoop,55.30522149,8.638862642,83.35666711,Jack silverside
+San Pablo Bay,Acartia,8,Zoop,40.6759027,6.230222877,72.35097345,Jack silverside
+San Pablo Bay,Oithona,8,Zoop,43.07659543,11.72873939,76.90317285,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,8,Fish,69.71113928,16.33252622,90.99677406,Jack silverside
+San Pablo Bay,Pseudodiaptomus,9,Zoop,57.34649615,7.462053088,85.37923111,Jack silverside
+San Pablo Bay,Acartia,9,Zoop,42.84862429,5.027435818,75.26611189,Jack silverside
+San Pablo Bay,Oithona,9,Zoop,45.53605887,10.83555757,79.81142747,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,9,Fish,71.37848608,15.36900454,92.22260999,Jack silverside
+San Pablo Bay,Pseudodiaptomus,10,Zoop,59.08711976,6.510983379,87.05372515,Jack silverside
+San Pablo Bay,Acartia,10,Zoop,44.70426328,4.019018654,77.72804194,Jack silverside
+San Pablo Bay,Oithona,10,Zoop,47.70133755,9.885666224,82.23450854,Jack silverside
+San Pablo Bay,Atherinopsis californiensis,10,Fish,72.79637786,14.55625028,93.21957718,Jack silverside
+Suisun Bay,Acartiella,1,Zoop,23.23311231,14.98645211,35.81546208,Longfin smelt
+Suisun Bay,Limnoithona,1,Zoop,24.52565275,17.32513482,35.37206272,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,1,Zoop,20.21923331,7.460892431,38.71755168,Longfin smelt
+Suisun Bay,Pseudodiaptomus,1,Zoop,24.1617192,16.86772309,34.19031798,Longfin smelt
+Suisun Bay,Eurytemora,1,Zoop,28.32782247,17.72544201,41.65028953,Longfin smelt
+San Pablo Bay,Acartia,1,Zoop,12.33554215,4.549003316,25.39778439,Longfin smelt
+Suisun Bay,Acartia,1,Zoop,28.04497291,12.22211606,47.55205514,Longfin smelt
+San Pablo Bay,Oithona,1,Zoop,16.65345103,6.594961467,30.08092695,Longfin smelt
+Suisun Bay,Oithona,1,Zoop,13.72226759,5.069483548,29.12661801,Longfin smelt
+Suisun Bay,Tortanus,1,Zoop,10.65214446,3.417501702,25.03593519,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,1,Fish,27.70732363,13.59721189,44.59820233,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,1,Fish,18.07393511,7.570980125,33.49761677,Longfin smelt
+Suisun Bay,Acartiella,2,Zoop,39.85898129,29.46953511,55.41619615,Longfin smelt
+Suisun Bay,Limnoithona,2,Zoop,41.17356771,32.40637438,54.35660863,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,2,Zoop,35.54635497,15.59592342,58.64304453,Longfin smelt
+Suisun Bay,Pseudodiaptomus,2,Zoop,41.5453211,32.54831326,53.90047954,Longfin smelt
+Suisun Bay,Eurytemora,2,Zoop,44.0883953,29.94047328,59.48508051,Longfin smelt
+San Pablo Bay,Acartia,2,Zoop,24.45432634,10.88367655,44.57636153,Longfin smelt
+Suisun Bay,Acartia,2,Zoop,44.25006202,21.91450298,66.4702011,Longfin smelt
+San Pablo Bay,Oithona,2,Zoop,27.87838583,11.77949973,46.92928989,Longfin smelt
+Suisun Bay,Oithona,2,Zoop,27.2461954,12.34964024,50.00733281,Longfin smelt
+Suisun Bay,Tortanus,2,Zoop,23.24274227,10.33018516,45.8256656,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,2,Fish,45.13918997,27.38406853,64.04507763,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,2,Fish,35.26509783,18.96543367,55.42686152,Longfin smelt
+Suisun Bay,Acartiella,3,Zoop,49.1580741,37.52937833,65.5982551,Longfin smelt
+Suisun Bay,Limnoithona,3,Zoop,50.3170664,40.59788151,64.19576512,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,3,Zoop,44.56461542,17.89014878,69.03850837,Longfin smelt
+Suisun Bay,Pseudodiaptomus,3,Zoop,51.21017766,41.58257666,64.21000744,Longfin smelt
+Suisun Bay,Eurytemora,3,Zoop,52.6101271,35.37275016,68.56065366,Longfin smelt
+San Pablo Bay,Acartia,3,Zoop,32.9129967,13.94431049,56.27242482,Longfin smelt
+Suisun Bay,Acartia,3,Zoop,53.14509039,25.3893147,75.73133676,Longfin smelt
+San Pablo Bay,Oithona,3,Zoop,35.16778632,13.33160022,57.8057587,Longfin smelt
+Suisun Bay,Oithona,3,Zoop,36.27738875,16.36588035,62.00613708,Longfin smelt
+Suisun Bay,Tortanus,3,Zoop,32.07796094,14.67546593,58.38474779,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,3,Fish,54.55001997,34.66486332,73.56244866,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,3,Fish,45.74106627,26.47738479,67.05790167,Longfin smelt
+Suisun Bay,Acartiella,4,Zoop,55.23061415,42.43620094,71.97556484,Longfin smelt
+Suisun Bay,Limnoithona,4,Zoop,56.24172703,45.59368126,70.37733373,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,4,Zoop,50.57738663,17.42691658,75.50761029,Longfin smelt
+Suisun Bay,Pseudodiaptomus,4,Zoop,57.50040594,47.42132074,70.6910247,Longfin smelt
+Suisun Bay,Eurytemora,4,Zoop,58.09585398,37.89536807,74.21895514,Longfin smelt
+San Pablo Bay,Acartia,4,Zoop,38.97387879,14.15706832,64.10572672,Longfin smelt
+Suisun Bay,Acartia,4,Zoop,58.91743655,26.21939626,81.30285917,Longfin smelt
+San Pablo Bay,Oithona,4,Zoop,40.54980189,13.77202163,65.45699524,Longfin smelt
+Suisun Bay,Oithona,4,Zoop,42.66739943,17.79416327,69.7628607,Longfin smelt
+Suisun Bay,Tortanus,4,Zoop,38.51615204,16.60297607,66.71026141,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,4,Fish,60.60199651,38.78926885,79.31848119,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,4,Fish,52.82192441,31.27440441,74.28291336,Longfin smelt
+Suisun Bay,Acartiella,5,Zoop,59.58366984,45.63569166,76.40323568,Longfin smelt
+Suisun Bay,Limnoithona,5,Zoop,60.47000692,48.89001876,74.68977909,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,5,Zoop,54.92647537,15.98979713,79.95073632,Longfin smelt
+Suisun Bay,Pseudodiaptomus,5,Zoop,61.99898234,51.51318942,75.20365294,Longfin smelt
+Suisun Bay,Eurytemora,5,Zoop,61.99069803,39.01497945,78.14557545,Longfin smelt
+San Pablo Bay,Acartia,5,Zoop,43.51340049,12.98957871,69.73704805,Longfin smelt
+Suisun Bay,Acartia,5,Zoop,63.03927145,25.93589803,85.03758771,Longfin smelt
+San Pablo Bay,Oithona,5,Zoop,44.75374015,13.64234345,71.11666311,Longfin smelt
+Suisun Bay,Oithona,5,Zoop,47.45649402,17.7579619,75.19468143,Longfin smelt
+Suisun Bay,Tortanus,5,Zoop,43.43608643,16.9974447,72.6248246,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,5,Fish,64.90109859,41.25496856,83.20633179,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,5,Fish,57.98860654,34.38444525,79.2144841,Longfin smelt
+Suisun Bay,Acartiella,6,Zoop,62.89775706,47.81714626,79.68209708,Longfin smelt
+Suisun Bay,Limnoithona,6,Zoop,63.67969978,51.17876333,77.90118168,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,6,Zoop,58.24835477,14.3592505,83.19882977,Longfin smelt
+Suisun Bay,Pseudodiaptomus,6,Zoop,65.41753644,54.54162733,78.55395185,Longfin smelt
+Suisun Bay,Eurytemora,6,Zoop,64.93301204,39.40095964,81.05685589,Longfin smelt
+San Pablo Bay,Acartia,6,Zoop,47.04073035,11.38593896,73.99151439,Longfin smelt
+Suisun Bay,Acartia,6,Zoop,66.16756429,25.20006588,87.71376259,Longfin smelt
+San Pablo Bay,Oithona,6,Zoop,48.15397624,13.13310194,75.45914946,Longfin smelt
+Suisun Bay,Oithona,6,Zoop,51.20510154,16.99935188,79.20968719,Longfin smelt
+Suisun Bay,Tortanus,6,Zoop,47.34092568,16.53807477,77.0358852,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,6,Fish,68.15354986,42.768085,86.01653104,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,6,Fish,61.96239735,36.42817738,82.79152416,Longfin smelt
+Suisun Bay,Acartiella,7,Zoop,65.52870837,49.34752819,82.21978304,Longfin smelt
+Suisun Bay,Limnoithona,7,Zoop,66.22238715,52.82290758,80.4016082,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,7,Zoop,60.88565344,12.84458467,85.67755991,Longfin smelt
+Suisun Bay,Pseudodiaptomus,7,Zoop,68.12714866,56.87119784,81.15311825,Longfin smelt
+Suisun Bay,Eurytemora,7,Zoop,67.25283619,39.386076,83.3146294,Longfin smelt
+San Pablo Bay,Acartia,7,Zoop,49.86162807,9.804800654,77.32385194,Longfin smelt
+Suisun Bay,Acartia,7,Zoop,68.64407858,24.31220932,89.72034962,Longfin smelt
+San Pablo Bay,Oithona,7,Zoop,50.97416344,12.39722738,78.88533105,Longfin smelt
+Suisun Bay,Oithona,7,Zoop,54.23670683,15.93895081,82.29398422,Longfin smelt
+Suisun Bay,Tortanus,7,Zoop,50.53225828,15.65447107,80.44417221,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,7,Fish,70.72315494,43.69797325,88.14317791,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,7,Fish,65.13645082,37.77775738,85.49811927,Longfin smelt
+Suisun Bay,Acartiella,8,Zoop,67.6825528,50.43966222,84.24790037,Longfin smelt
+Suisun Bay,Limnoithona,8,Zoop,68.30057706,54.03141612,82.41247406,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,8,Zoop,63.04057433,11.54776913,87.62948778,Longfin smelt
+Suisun Bay,Pseudodiaptomus,8,Zoop,70.34226668,58.71504746,83.23514145,Longfin smelt
+Suisun Bay,Eurytemora,8,Zoop,69.13991391,39.14928299,85.12357907,Longfin smelt
+San Pablo Bay,Acartia,8,Zoop,52.16933957,8.42812407,80.00600344,Longfin smelt
+Suisun Bay,Acartia,8,Zoop,70.66613513,23.4117718,91.27513636,Longfin smelt
+San Pablo Bay,Oithona,8,Zoop,53.35909655,11.56065784,81.64848065,Longfin smelt
+Suisun Bay,Oithona,8,Zoop,56.75092507,14.80216487,84.73240129,Longfin smelt
+Suisun Bay,Tortanus,8,Zoop,53.20110056,14.60048152,83.14913317,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,8,Fish,72.81851649,44.25427565,89.80679211,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,8,Fish,67.74451168,38.6633391,87.61077336,Longfin smelt
+Suisun Bay,Acartiella,9,Zoop,69.48778649,51.22528062,85.90880352,Longfin smelt
+Suisun Bay,Limnoithona,9,Zoop,70.04010364,54.93319153,84.06984423,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,9,Zoop,64.84091787,10.48264202,89.20382112,Longfin smelt
+Suisun Bay,Pseudodiaptomus,9,Zoop,72.19644616,60.20668406,84.94401273,Longfin smelt
+Suisun Bay,Eurytemora,9,Zoop,70.71199005,38.79218151,86.60917349,Longfin smelt
+San Pablo Bay,Acartia,9,Zoop,54.09185264,7.30221478,82.21118705,Longfin smelt
+Suisun Bay,Acartia,9,Zoop,72.35657212,22.56218113,92.51026249,Longfin smelt
+San Pablo Bay,Oithona,9,Zoop,55.4075961,10.71316173,83.91654381,Longfin smelt
+Suisun Bay,Oithona,9,Zoop,58.87792803,13.70395834,86.70353579,Longfin smelt
+Suisun Bay,Tortanus,9,Zoop,55.47443197,13.51961262,85.34130022,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,9,Fish,74.5688364,44.56356468,91.14125,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,9,Fish,69.93506251,39.23211319,89.29961375,Longfin smelt
+Suisun Bay,Acartiella,10,Zoop,71.02920778,51.7901399,87.29531214,Longfin smelt
+Suisun Bay,Limnoithona,10,Zoop,71.52377884,55.61207917,85.46246361,Longfin smelt
+San Pablo Bay,Pseudodiaptomus,10,Zoop,66.3718449,9.628314978,90.49778911,Longfin smelt
+Suisun Bay,Pseudodiaptomus,10,Zoop,73.77772503,61.43430364,86.37371378,Longfin smelt
+Suisun Bay,Eurytemora,10,Zoop,72.04646774,38.37459355,87.85308446,Longfin smelt
+San Pablo Bay,Acartia,10,Zoop,55.7173745,6.414019348,84.05533751,Longfin smelt
+Suisun Bay,Acartia,10,Zoop,73.79634572,21.78957894,93.51085183,Longfin smelt
+San Pablo Bay,Oithona,10,Zoop,57.18979928,9.910586279,85.80534855,Longfin smelt
+Suisun Bay,Oithona,10,Zoop,60.70650018,12.69818017,88.32539464,Longfin smelt
+Suisun Bay,Tortanus,10,Zoop,57.44015033,12.48879805,87.14795336,Longfin smelt
+San Pablo Bay,Spirinchus thaleichthys,10,Fish,76.05893357,44.70595451,92.23292008,Longfin smelt
+Suisun Bay,Spirinchus thaleichthys,10,Fish,71.80741836,39.58105917,90.67538336,Longfin smelt
+Suisun Bay,Acartiella,1,Zoop,21.12581457,13.20005294,33.54649217,American shad
+Suisun Bay,Limnoithona,1,Zoop,24.56957371,17.37569504,35.4447714,American shad
+Confluence,Limnoithona,1,Zoop,27.21035694,16.52561365,41.37069513,American shad
+San Pablo Bay,Pseudodiaptomus,1,Zoop,5.632639058,0.939513356,18.92275175,American shad
+Suisun Bay,Pseudodiaptomus,1,Zoop,24.13842707,16.93157405,34.14442575,American shad
+Confluence,Pseudodiaptomus,1,Zoop,16.8081981,9.677485416,26.8711066,American shad
+Delta,Pseudodiaptomus,1,Zoop,5.765737174,3.379710195,10.2095322,American shad
+Suisun Bay,Eurytemora,1,Zoop,28.27161511,17.88536144,41.44628746,American shad
+Delta,Eurytemora,1,Zoop,36.72981121,26.36379629,48.63412203,American shad
+Delta,Sinocalanus,1,Zoop,28.73581807,19.91770602,40.16387902,American shad
+Delta,Bosmina,1,Zoop,36.81626224,29.42896972,46.46700635,American shad
+Delta,Daphnia,1,Zoop,38.97275579,26.814261,53.56248098,American shad
+San Pablo Bay,Acartia,1,Zoop,4.661958101,0.801102637,15.28442556,American shad
+Suisun Bay,Acartia,1,Zoop,28.51624648,12.9536207,47.63858911,American shad
+San Pablo Bay,Oithona,1,Zoop,2.229334721,0.166912366,11.36241416,American shad
+Suisun Bay,Oithona,1,Zoop,15.79643781,6.12085426,31.69376065,American shad
+Suisun Bay,Tortanus,1,Zoop,8.706189853,2.732194781,21.63841828,American shad
+San Pablo Bay,Alosa sapidissima,1,Fish,18.1737096,12.12674101,27.76742738,American shad
+Suisun Bay,Alosa sapidissima,1,Fish,15.95626641,11.630886,22.71424491,American shad
+Confluence,Alosa sapidissima,1,Fish,31.14953264,22.36994619,43.15473867,American shad
+Delta,Alosa sapidissima,1,Fish,29.75015604,23.25929149,37.37484731,American shad
+Suisun Bay,Acartiella,2,Zoop,37.81216202,27.54121051,53.56468088,American shad
+Suisun Bay,Limnoithona,2,Zoop,41.23052818,32.47935081,54.46546775,American shad
+Confluence,Limnoithona,2,Zoop,43.498837,29.49908759,59.7394007,American shad
+San Pablo Bay,Pseudodiaptomus,2,Zoop,17.51706316,6.922831152,40.96749852,American shad
+Suisun Bay,Pseudodiaptomus,2,Zoop,41.46908506,32.59450653,53.8151734,American shad
+Confluence,Pseudodiaptomus,2,Zoop,33.75051585,23.20868602,47.70516863,American shad
+Delta,Pseudodiaptomus,2,Zoop,16.89003458,12.03072994,26.11066716,American shad
+Suisun Bay,Eurytemora,2,Zoop,43.83832839,29.95801534,59.23260251,American shad
+Delta,Eurytemora,2,Zoop,51.88703528,39.32798825,64.60284909,American shad
+Delta,Sinocalanus,2,Zoop,46.09560106,35.66820236,59.31994101,American shad
+Delta,Bosmina,2,Zoop,52.38284071,44.36199412,63.01886589,American shad
+Delta,Daphnia,2,Zoop,53.99736273,39.65664539,69.40441413,American shad
+San Pablo Bay,Acartia,2,Zoop,14.06166139,5.279981947,34.37979904,American shad
+Suisun Bay,Acartia,2,Zoop,44.34407085,22.20402322,66.22649218,American shad
+San Pablo Bay,Oithona,2,Zoop,10.28392651,2.929485706,32.35712213,American shad
+Suisun Bay,Oithona,2,Zoop,29.72021062,13.77296848,52.10229104,American shad
+Suisun Bay,Tortanus,2,Zoop,20.35568267,8.866562485,42.28367949,American shad
+San Pablo Bay,Alosa sapidissima,2,Fish,34.37550541,26.36191849,47.24621929,American shad
+Suisun Bay,Alosa sapidissima,2,Fish,31.99468692,26.2274893,41.4433506,American shad
+Confluence,Alosa sapidissima,2,Fish,47.60105598,37.76691266,61.11356557,American shad
+Delta,Alosa sapidissima,2,Fish,46.67659539,38.93695455,55.535072,American shad
+Suisun Bay,Acartiella,3,Zoop,47.30504092,35.72822258,64.09315467,American shad
+Suisun Bay,Limnoithona,3,Zoop,50.38317549,40.70249089,64.32237268,American shad
+Confluence,Limnoithona,3,Zoop,52.25247893,35.3722828,68.96652855,American shad
+San Pablo Bay,Pseudodiaptomus,3,Zoop,26.70361131,11.60967766,54.52189573,American shad
+Suisun Bay,Pseudodiaptomus,3,Zoop,51.10432761,41.60246193,64.10889436,American shad
+Confluence,Pseudodiaptomus,3,Zoop,44.17320983,32.21510694,59.41570458,American shad
+Delta,Pseudodiaptomus,3,Zoop,25.7978189,19.66087733,37.67050423,American shad
+Suisun Bay,Eurytemora,3,Zoop,52.32987817,35.441539,68.35225953,American shad
+Delta,Eurytemora,3,Zoop,59.62881985,45.00469037,72.42905097,American shad
+Delta,Sinocalanus,3,Zoop,55.40846937,44.33448072,68.97416172,American shad
+Delta,Bosmina,3,Zoop,60.38803767,51.95557379,71.20640601,American shad
+Delta,Daphnia,3,Zoop,61.57982396,45.15157042,76.95240432,American shad
+San Pablo Bay,Acartia,3,Zoop,21.94831873,9.610159064,47.52424023,American shad
+Suisun Bay,Acartia,3,Zoop,53.03831167,25.23642817,75.38817035,American shad
+San Pablo Bay,Oithona,3,Zoop,18.23319441,7.274345337,47.47010389,American shad
+Suisun Bay,Oithona,3,Zoop,38.68572641,17.4742957,63.60550338,American shad
+Suisun Bay,Tortanus,3,Zoop,29.01160798,13.20248598,55.28090956,American shad
+San Pablo Bay,Alosa sapidissima,3,Fish,43.98098841,35.07157082,58.01595279,American shad
+Suisun Bay,Alosa sapidissima,3,Fish,41.67849787,35.32336047,52.14277204,American shad
+Confluence,Alosa sapidissima,3,Fish,56.22218953,45.76114334,70.02728213,American shad
+Delta,Alosa sapidissima,3,Fish,55.78047405,47.56168954,64.91675657,American shad
+Suisun Bay,Acartiella,4,Zoop,53.54389134,40.76263211,70.71805843,American shad
+Suisun Bay,Limnoithona,4,Zoop,56.31462736,45.73211149,70.5132903,American shad
+Confluence,Limnoithona,4,Zoop,57.86525985,38.17140738,74.67748578,American shad
+San Pablo Bay,Pseudodiaptomus,4,Zoop,33.52736488,13.23309064,63.50227659,American shad
+Suisun Bay,Pseudodiaptomus,4,Zoop,57.37564843,47.4155708,70.5826256,American shad
+Confluence,Pseudodiaptomus,4,Zoop,51.24562939,38.40021712,66.96727308,American shad
+Delta,Pseudodiaptomus,4,Zoop,32.59657436,25.57966464,46.0705061,American shad
+Suisun Bay,Eurytemora,4,Zoop,57.82165853,38.04586415,74.05538123,American shad
+Delta,Eurytemora,4,Zoop,64.49781808,47.86921867,77.24619707,American shad
+Delta,Sinocalanus,4,Zoop,61.38346921,49.80310636,74.93808681,American shad
+Delta,Bosmina,4,Zoop,65.44678448,56.57347756,76.26065153,American shad
+Delta,Daphnia,4,Zoop,66.33507313,47.84762421,81.51455758,American shad
+San Pablo Bay,Acartia,4,Zoop,28.18379743,11.99465501,56.81117611,American shad
+Suisun Bay,Acartia,4,Zoop,58.68613165,25.74425374,80.9277716,American shad
+San Pablo Bay,Oithona,4,Zoop,24.84070257,10.56777703,58.07413445,American shad
+Suisun Bay,Oithona,4,Zoop,44.93837536,18.55464802,70.99895326,American shad
+Suisun Bay,Tortanus,4,Zoop,35.47362418,15.3046859,64.04116101,American shad
+San Pablo Bay,Alosa sapidissima,4,Fish,50.4061848,40.74219111,64.96364982,American shad
+Suisun Bay,Alosa sapidissima,4,Fish,48.192231,41.35616689,59.1608458,American shad
+Confluence,Alosa sapidissima,4,Fish,61.70748182,50.58943659,75.52190139,American shad
+Delta,Alosa sapidissima,4,Fish,61.62861182,53.08718095,70.80996633,American shad
+Suisun Bay,Acartiella,5,Zoop,58.03130968,44.06411944,75.32882466,American shad
+Suisun Bay,Limnoithona,5,Zoop,60.54821294,49.06153941,74.83071789,American shad
+Confluence,Limnoithona,5,Zoop,61.84151728,39.48425802,78.62099499,American shad
+San Pablo Bay,Pseudodiaptomus,5,Zoop,38.76065609,12.92274311,69.87596744,American shad
+Suisun Bay,Pseudodiaptomus,5,Zoop,61.86100493,51.48361305,75.09191101,American shad
+Confluence,Pseudodiaptomus,5,Zoop,56.41906561,42.87950199,72.2826223,American shad
+Delta,Pseudodiaptomus,5,Zoop,37.91251594,30.1401164,52.43312563,American shad
+Suisun Bay,Eurytemora,5,Zoop,61.73236227,39.24140575,78.0189713,American shad
+Delta,Eurytemora,5,Zoop,67.91175265,49.39760825,80.57195007,American shad
+Delta,Sinocalanus,5,Zoop,65.62281274,53.56913364,79.04260087,American shad
+Delta,Bosmina,5,Zoop,69.00849077,59.6730231,79.75361193,American shad
+Delta,Daphnia,5,Zoop,69.66964467,49.22913409,84.61722151,American shad
+San Pablo Bay,Acartia,5,Zoop,33.16575217,12.59661444,63.67407466,American shad
+Suisun Bay,Acartia,5,Zoop,62.72167349,25.23790694,84.65711073,American shad
+San Pablo Bay,Oithona,5,Zoop,30.25139377,12.28571517,65.78625102,American shad
+Suisun Bay,Oithona,5,Zoop,49.58743251,18.26664215,76.16561489,American shad
+Suisun Bay,Tortanus,5,Zoop,40.47663685,15.85506434,70.32176137,American shad
+San Pablo Bay,Alosa sapidissima,5,Fish,55.07312225,44.67304087,69.88146623,American shad
+Suisun Bay,Alosa sapidissima,5,Fish,52.93504911,45.62470182,64.18999435,American shad
+Confluence,Alosa sapidissima,5,Fish,65.58439379,53.7805483,79.30978506,American shad
+Delta,Alosa sapidissima,5,Fish,65.77927423,56.96787087,74.92285027,American shad
+Suisun Bay,Acartiella,6,Zoop,61.45486084,46.32410138,78.74836697,American shad
+Suisun Bay,Limnoithona,6,Zoop,63.76222003,51.38164258,78.04458746,American shad
+Confluence,Limnoithona,6,Zoop,64.84166988,40.01424062,81.53364301,American shad
+San Pablo Bay,Pseudodiaptomus,6,Zoop,42.90922423,11.71146634,74.62919031,American shad
+Suisun Bay,Pseudodiaptomus,6,Zoop,65.26974691,54.49005859,78.44097207,American shad
+Confluence,Pseudodiaptomus,6,Zoop,60.40577657,46.26206272,76.24601209,American shad
+Delta,Pseudodiaptomus,6,Zoop,42.18987128,33.70137321,57.43303299,American shad
+Suisun Bay,Eurytemora,6,Zoop,64.69299087,39.69062937,80.95989501,American shad
+Delta,Eurytemora,6,Zoop,70.47101878,50.20977852,83.03351375,American shad
+Delta,Sinocalanus,6,Zoop,68.82778166,56.31515782,82.06229757,American shad
+Delta,Bosmina,6,Zoop,71.68888393,61.88557594,82.33940002,American shad
+Delta,Daphnia,6,Zoop,72.17307145,49.91477183,86.88254188,American shad
+San Pablo Bay,Acartia,6,Zoop,37.22508493,12.05821714,68.93742582,American shad
+Suisun Bay,Acartia,6,Zoop,65.78569074,24.35324336,87.33993236,American shad
+San Pablo Bay,Oithona,6,Zoop,34.73327329,12.75644393,71.59326351,American shad
+Suisun Bay,Oithona,6,Zoop,53.20750218,17.35271201,79.98253254,American shad
+Suisun Bay,Tortanus,6,Zoop,44.47962725,15.49560637,75.03368248,American shad
+San Pablo Bay,Alosa sapidissima,6,Fish,58.65585894,47.52430778,73.5775866,American shad
+Suisun Bay,Alosa sapidissima,6,Fish,56.58050009,48.7908548,68.00971316,American shad
+Confluence,Alosa sapidissima,6,Fish,68.50977452,56.01279191,82.10584523,American shad
+Delta,Alosa sapidissima,6,Fish,68.91664201,59.8606238,77.98741067,American shad
+Suisun Bay,Acartiella,7,Zoop,64.17659772,47.91465292,81.39758049,American shad
+Suisun Bay,Limnoithona,7,Zoop,66.30852405,53.05511666,80.54592656,American shad
+Confluence,Limnoithona,7,Zoop,67.20561829,40.11060184,83.78532703,American shad
+San Pablo Bay,Pseudodiaptomus,7,Zoop,46.2894685,10.20555798,78.30466741,American shad
+Suisun Bay,Pseudodiaptomus,7,Zoop,67.97176695,56.79929868,81.0401269,American shad
+Confluence,Pseudodiaptomus,7,Zoop,63.595445,48.89868428,79.32344815,American shad
+Delta,Pseudodiaptomus,7,Zoop,45.71803021,36.52657142,61.47872744,American shad
+Suisun Bay,Eurytemora,7,Zoop,67.03119202,39.72638871,83.24149422,American shad
+Delta,Eurytemora,7,Zoop,72.47860017,50.60867358,84.94275089,American shad
+Delta,Sinocalanus,7,Zoop,71.35872379,58.39863834,84.38688312,American shad
+Delta,Bosmina,7,Zoop,73.79933012,63.53230082,84.34448754,American shad
+Delta,Daphnia,7,Zoop,74.1411535,50.20481059,88.61705511,American shad
+San Pablo Bay,Acartia,7,Zoop,40.59602021,10.94393979,73.09317164,American shad
+Suisun Bay,Acartia,7,Zoop,68.21189106,23.3704885,89.35896969,American shad
+San Pablo Bay,Oithona,7,Zoop,38.50479373,12.41929668,76.09128165,American shad
+Suisun Bay,Oithona,7,Zoop,56.12401249,16.21035163,82.91534778,American shad
+Suisun Bay,Tortanus,7,Zoop,47.7690482,14.66326486,78.68996286,American shad
+San Pablo Bay,Alosa sapidissima,7,Fish,61.51640348,49.6612716,76.47388849,American shad
+Suisun Bay,Alosa sapidissima,7,Fish,59.49294432,51.22174734,71.03165881,American shad
+Confluence,Alosa sapidissima,7,Fish,70.81788987,57.63472131,84.26732996,American shad
+Delta,Alosa sapidissima,7,Fish,71.39303191,62.10838227,80.3750996,American shad
+Suisun Bay,Acartiella,8,Zoop,66.4070742,49.05299703,83.51633686,American shad
+Suisun Bay,Limnoithona,8,Zoop,68.38981812,54.29090165,82.55669631,American shad
+Confluence,Limnoithona,8,Zoop,69.12812697,39.96145658,85.5844205,American shad
+San Pablo Bay,Pseudodiaptomus,8,Zoop,49.10543855,8.711872962,81.22572924,American shad
+Suisun Bay,Pseudodiaptomus,8,Zoop,70.18082886,58.62428833,83.1228938,American shad
+Confluence,Pseudodiaptomus,8,Zoop,66.22027766,51.00451408,81.78557548,American shad
+Delta,Pseudodiaptomus,8,Zoop,48.68846657,38.80020441,64.82909356,American shad
+Suisun Bay,Eurytemora,8,Zoop,68.93589453,39.52934083,85.06976891,American shad
+Delta,Eurytemora,8,Zoop,74.10594208,50.75795432,86.47431742,American shad
+Delta,Sinocalanus,8,Zoop,73.42193048,60.02599154,86.23605218,American shad
+Delta,Bosmina,8,Zoop,75.51629889,64.79510507,85.95214365,American shad
+Delta,Daphnia,8,Zoop,75.74067818,50.26034252,89.99124579,American shad
+San Pablo Bay,Acartia,8,Zoop,43.44208038,9.628113581,76.45060565,American shad
+Suisun Bay,Acartia,8,Zoop,70.19311889,22.41408069,90.92898623,American shad
+San Pablo Bay,Oithona,8,Zoop,41.72694714,11.62392249,79.655249,American shad
+Suisun Bay,Oithona,8,Zoop,58.53553076,15.04240389,85.23559974,American shad
+Suisun Bay,Tortanus,8,Zoop,50.53063971,13.62682095,81.60124967,American shad
+San Pablo Bay,Alosa sapidissima,8,Fish,63.86798415,51.30189695,78.81415158,American shad
+Suisun Bay,Alosa sapidissima,8,Fish,61.88788857,53.13711029,73.49556351,American shad
+Confluence,Alosa sapidissima,8,Fish,72.69893201,58.84462021,85.99486201,American shad
+Delta,Alosa sapidissima,8,Fish,73.41043886,63.90919291,82.29669659,American shad
+Suisun Bay,Acartiella,9,Zoop,68.27800615,49.87420078,85.25238235,American shad
+Suisun Bay,Limnoithona,9,Zoop,70.13205904,55.21798302,84.21329322,American shad
+Confluence,Limnoithona,9,Zoop,70.72975556,39.67409302,87.05824789,American shad
+San Pablo Bay,Pseudodiaptomus,9,Zoop,51.49395251,7.366407638,83.59740802,American shad
+Suisun Bay,Pseudodiaptomus,9,Zoop,72.03006435,60.09836313,84.83299055,American shad
+Confluence,Pseudodiaptomus,9,Zoop,68.42801115,52.71882196,83.80125833,American shad
+Delta,Pseudodiaptomus,9,Zoop,51.23190488,40.65240841,67.6558143,American shad
+Suisun Bay,Eurytemora,9,Zoop,70.52459497,39.20296971,86.57119468,American shad
+Delta,Eurytemora,9,Zoop,75.45824548,50.75245626,87.73454479,American shad
+Delta,Sinocalanus,9,Zoop,75.14503149,61.3253146,87.74406458,American shad
+Delta,Bosmina,9,Zoop,76.94821814,65.78526637,87.27411946,American shad
+Delta,Daphnia,9,Zoop,77.07375114,50.17400601,91.10831084,American shad
+San Pablo Bay,Acartia,9,Zoop,45.87921308,8.324375294,79.21358849,American shad
+Suisun Bay,Acartia,9,Zoop,71.84951106,21.53636564,92.18053556,American shad
+San Pablo Bay,Oithona,9,Zoop,44.51700685,10.60930488,82.53135553,American shad
+Suisun Bay,Oithona,9,Zoop,60.57058027,13.9463383,87.11304008,American shad
+Suisun Bay,Tortanus,9,Zoop,52.88978642,12.54267648,83.96687354,American shad
+San Pablo Bay,Alosa sapidissima,9,Fish,65.84519061,52.58431544,80.75007582,American shad
+Suisun Bay,Alosa sapidissima,9,Fish,63.90172463,54.67670683,75.55148361,American shad
+Confluence,Alosa sapidissima,9,Fish,74.27007664,59.76394351,87.410772,American shad
+Delta,Alosa sapidissima,9,Fish,75.09396767,65.38616141,83.88171311,American shad
+Suisun Bay,Acartiella,10,Zoop,69.87650928,50.46648692,86.70220196,American shad
+Suisun Bay,Limnoithona,10,Zoop,71.61814354,55.92032878,85.60467416,American shad
+Confluence,Limnoithona,10,Zoop,72.08960547,39.31217484,88.28947802,American shad
+San Pablo Bay,Pseudodiaptomus,10,Zoop,53.55012768,6.215315999,85.55629563,American shad
+Suisun Bay,Pseudodiaptomus,10,Zoop,73.60723327,61.30957202,86.26423029,American shad
+Confluence,Pseudodiaptomus,10,Zoop,70.31757756,54.13584982,85.48179631,American shad
+Delta,Pseudodiaptomus,10,Zoop,53.44046969,42.17665992,70.07732882,American shad
+Suisun Bay,Eurytemora,10,Zoop,71.87466434,38.80878089,87.82819442,American shad
+Delta,Eurytemora,10,Zoop,76.60409019,50.649992,88.79231073,American shad
+Delta,Sinocalanus,10,Zoop,76.61174613,62.38059956,88.99807079,American shad
+Delta,Bosmina,10,Zoop,78.16585384,66.57491342,88.3828824,American shad
+Delta,Daphnia,10,Zoop,78.20683096,50.00178402,92.03476214,American shad
+San Pablo Bay,Acartia,10,Zoop,47.99145432,7.138576654,81.5219567,American shad
+Suisun Bay,Acartia,10,Zoop,73.26028795,20.75531911,93.19786757,American shad
+San Pablo Bay,Oithona,10,Zoop,46.96130954,9.526465394,84.88752094,American shad
+Suisun Bay,Oithona,10,Zoop,62.31635243,12.96342686,88.65960761,American shad
+Suisun Bay,Tortanus,10,Zoop,54.93422928,11.4970119,85.92080996,American shad
+San Pablo Bay,Alosa sapidissima,10,Fish,67.53763441,53.60035997,82.38153076,American shad
+Suisun Bay,Alosa sapidissima,10,Fish,65.62543181,55.93384934,77.2986759,American shad
+Confluence,Alosa sapidissima,10,Fish,75.6079519,60.47137192,88.59436852,American shad
+Delta,Alosa sapidissima,10,Fish,76.52574509,66.62021617,85.21461632,American shad
+Suisun Bay,Acartiella,1,Zoop,24.4402109,16.10002824,35.85175213,Striped Bass
+Suisun Bay,Limnoithona,1,Zoop,32.03330404,24.27926547,42.16537459,Striped Bass
+Confluence,Limnoithona,1,Zoop,29.86163949,18.72158469,43.91201526,Striped Bass
+Suisun Bay,Pseudodiaptomus,1,Zoop,27.45842014,20.04579199,37.16064578,Striped Bass
+Confluence,Pseudodiaptomus,1,Zoop,18.33269416,11.04158017,28.51548482,Striped Bass
+Delta,Pseudodiaptomus,1,Zoop,11.66329244,8.158695705,17.05491259,Striped Bass
+Suisun Bay,Eurytemora,1,Zoop,15.91749807,7.197293852,29.74042148,Striped Bass
+Delta,Eurytemora,1,Zoop,35.39177108,25.46993325,47.30031207,Striped Bass
+Delta,Sinocalanus,1,Zoop,21.46982686,14.19020865,31.82138979,Striped Bass
+Delta,Bosmina,1,Zoop,25.66805164,19.3087531,34.76506236,Striped Bass
+Delta,Daphnia,1,Zoop,29.09731587,18.27573703,43.52350969,Striped Bass
+Suisun Bay,Acartia,1,Zoop,34.18937644,17.0145399,52.53697653,Striped Bass
+Suisun Bay,Oithona,1,Zoop,26.58088761,11.9341095,44.48046431,Striped Bass
+Suisun Bay,Tortanus,1,Zoop,17.01408207,6.806209889,32.12058458,Striped Bass
+Suisun Bay,Morone saxatilis,1,Fish,20.26664158,11.76824069,32.55749175,Striped Bass
+Confluence,Morone saxatilis,1,Fish,11.93711552,3.902836159,26.25821251,Striped Bass
+Delta,Morone saxatilis,1,Fish,12.44947777,2.264360084,30.90575011,Striped Bass
+Suisun Bay,Acartiella,2,Zoop,40.93137589,30.04482159,54.55318518,Striped Bass
+Suisun Bay,Limnoithona,2,Zoop,47.89387751,38.67118685,59.3657393,Striped Bass
+Confluence,Limnoithona,2,Zoop,45.87417322,31.4375091,61.6650493,Striped Bass
+Suisun Bay,Pseudodiaptomus,2,Zoop,44.51853362,35.63957846,55.8881403,Striped Bass
+Confluence,Pseudodiaptomus,2,Zoop,35.25575008,24.93102499,48.90691523,Striped Bass
+Delta,Pseudodiaptomus,2,Zoop,24.71642878,19.00949576,33.78474248,Striped Bass
+Suisun Bay,Eurytemora,2,Zoop,31.49277409,17.96383334,50.43844673,Striped Bass
+Delta,Eurytemora,2,Zoop,50.89747562,38.96315079,63.7152086,Striped Bass
+Delta,Sinocalanus,2,Zoop,38.13352793,28.64812342,51.43916106,Striped Bass
+Delta,Bosmina,2,Zoop,41.4819361,33.44747831,53.11102726,Striped Bass
+Delta,Daphnia,2,Zoop,44.97654376,31.01399033,61.80947567,Striped Bass
+Suisun Bay,Acartia,2,Zoop,49.38114583,25.404136,69.16049663,Striped Bass
+Suisun Bay,Oithona,2,Zoop,41.75881621,20.54277514,62.72824895,Striped Bass
+Suisun Bay,Tortanus,2,Zoop,30.18338273,13.85555924,51.10904088,Striped Bass
+Suisun Bay,Morone saxatilis,2,Fish,36.963706,25.69449867,52.57108164,Striped Bass
+Confluence,Morone saxatilis,2,Fish,26.55599598,12.48195361,47.88732673,Striped Bass
+Delta,Morone saxatilis,2,Fish,27.52044001,9.641733143,53.01845247,Striped Bass
+Suisun Bay,Acartiella,3,Zoop,49.94321964,37.07737457,64.20937468,Striped Bass
+Suisun Bay,Limnoithona,3,Zoop,56.20599774,45.81888881,68.01623291,Striped Bass
+Confluence,Limnoithona,3,Zoop,54.3501774,36.98878544,70.49333843,Striped Bass
+Suisun Bay,Pseudodiaptomus,3,Zoop,53.71142834,44.0793507,65.48019387,Striped Bass
+Confluence,Pseudodiaptomus,3,Zoop,45.39888996,33.72075331,60.1658207,Striped Bass
+Delta,Pseudodiaptomus,3,Zoop,33.72676503,26.7549283,44.69486025,Striped Bass
+Suisun Bay,Eurytemora,3,Zoop,41.22140711,24.37921621,61.9330373,Striped Bass
+Delta,Eurytemora,3,Zoop,58.81722215,45.00203053,71.75146287,Striped Bass
+Delta,Sinocalanus,3,Zoop,47.77021508,37.26001522,62.01447248,Striped Bass
+Delta,Bosmina,3,Zoop,50.55234259,41.71992128,63.0614587,Striped Bass
+Delta,Daphnia,3,Zoop,53.67383689,37.37905628,71.05794542,Striped Bass
+Suisun Bay,Acartia,3,Zoop,57.29322103,26.94414388,77.15091773,Striped Bass
+Suisun Bay,Oithona,3,Zoop,50.22189349,22.9768533,72.04869984,Striped Bass
+Suisun Bay,Tortanus,3,Zoop,38.56106962,16.80251841,62.23239491,Striped Bass
+Suisun Bay,Morone saxatilis,3,Fish,46.6406987,34.04697696,63.23396609,Striped Bass
+Confluence,Morone saxatilis,3,Fish,36.35128607,18.65146613,60.33506494,Striped Bass
+Delta,Morone saxatilis,3,Fish,37.36361297,14.61565592,65.03537972,Striped Bass
+Suisun Bay,Acartiella,4,Zoop,55.75031938,40.9675882,70.26987714,Striped Bass
+Suisun Bay,Limnoithona,4,Zoop,61.48911739,49.95452868,73.39880546,Striped Bass
+Confluence,Limnoithona,4,Zoop,59.75319131,39.561917,75.93740384,Striped Bass
+Suisun Bay,Pseudodiaptomus,4,Zoop,59.61709636,49.32463262,71.4734705,Striped Bass
+Confluence,Pseudodiaptomus,4,Zoop,52.20693693,39.56942494,67.38679151,Striped Bass
+Delta,Pseudodiaptomus,4,Zoop,40.21469216,32.24212119,52.30911785,Striped Bass
+Suisun Bay,Eurytemora,4,Zoop,47.87758052,27.99254552,69.29207615,Striped Bass
+Delta,Eurytemora,4,Zoop,63.79604749,48.13355681,76.69375174,Striped Bass
+Delta,Sinocalanus,4,Zoop,54.1511836,42.80734743,68.74855277,Striped Bass
+Delta,Bosmina,4,Zoop,56.55736983,47.10338547,69.43387338,Striped Bass
+Delta,Daphnia,4,Zoop,59.31253921,40.81564732,76.77003602,Striped Bass
+Suisun Bay,Acartia,4,Zoop,62.29967195,26.29057994,81.97001868,Striped Bass
+Suisun Bay,Oithona,4,Zoop,55.76168895,22.95134997,77.8202935,Striped Bass
+Suisun Bay,Tortanus,4,Zoop,44.47991537,17.65554463,69.58372559,Striped Bass
+Suisun Bay,Morone saxatilis,4,Fish,53.05213922,39.35348679,69.97984804,Striped Bass
+Confluence,Morone saxatilis,4,Fish,43.2879471,22.52972448,68.38013748,Striped Bass
+Delta,Morone saxatilis,4,Fish,44.21752388,16.74664837,72.58405744,Striped Bass
+Suisun Bay,Acartiella,5,Zoop,59.8711546,43.24951319,74.49705594,Striped Bass
+Suisun Bay,Limnoithona,5,Zoop,65.21653868,52.56441588,77.13931298,Striped Bass
+Confluence,Limnoithona,5,Zoop,63.56863906,40.7226459,79.68973845,Striped Bass
+Suisun Bay,Pseudodiaptomus,5,Zoop,63.80877096,52.88355484,75.63952514,Striped Bass
+Confluence,Pseudodiaptomus,5,Zoop,57.15665066,43.69922995,72.46141995,Striped Bass
+Delta,Pseudodiaptomus,5,Zoop,45.13019774,36.24470351,57.95946863,Striped Bass
+Suisun Bay,Eurytemora,5,Zoop,52.77094545,30.02273583,74.4395886,Striped Bass
+Delta,Eurytemora,5,Zoop,67.28613508,49.86938292,80.10392144,Striped Bass
+Delta,Sinocalanus,5,Zoop,58.75855138,46.62856597,73.47076831,Striped Bass
+Delta,Bosmina,5,Zoop,60.89656685,50.87575242,73.92286763,Striped Bass
+Delta,Daphnia,5,Zoop,63.33785935,42.74808136,80.69377612,Striped Bass
+Suisun Bay,Acartia,5,Zoop,65.81623696,25.01175632,85.22919513,Striped Bass
+Suisun Bay,Oithona,5,Zoop,59.7328227,22.00598456,81.77955563,Striped Bass
+Suisun Bay,Tortanus,5,Zoop,48.93657411,17.40624502,74.81623629,Striped Bass
+Suisun Bay,Morone saxatilis,5,Fish,57.68413578,42.93385202,74.68825331,Striped Bass
+Confluence,Morone saxatilis,5,Fish,48.49466422,24.83790528,74.01052438,Striped Bass
+Delta,Morone saxatilis,5,Fish,49.30667919,17.19063602,77.77230641,Striped Bass
+Suisun Bay,Acartiella,6,Zoop,62.98131523,44.62256094,77.64552579,Striped Bass
+Suisun Bay,Limnoithona,6,Zoop,68.02307089,54.29914765,79.92088413,Striped Bass
+Confluence,Limnoithona,6,Zoop,66.44156048,41.15048889,82.45829827,Striped Bass
+Suisun Bay,Pseudodiaptomus,6,Zoop,66.97756901,55.44045906,78.73340693,Striped Bass
+Confluence,Pseudodiaptomus,6,Zoop,60.95583114,46.74839535,76.24585229,Striped Bass
+Delta,Pseudodiaptomus,6,Zoop,49.0064062,39.24784418,62.34627749,Striped Bass
+Suisun Bay,Eurytemora,6,Zoop,56.55454573,31.13807908,78.25527002,Striped Bass
+Delta,Eurytemora,6,Zoop,69.90220607,50.84747889,82.62687756,Striped Bass
+Delta,Sinocalanus,6,Zoop,62.28095657,49.38828305,76.9924363,Striped Bass
+Delta,Bosmina,6,Zoop,64.21682666,53.65592947,77.28351841,Striped Bass
+Delta,Daphnia,6,Zoop,66.39322801,43.83569732,83.57264049,Striped Bass
+Suisun Bay,Acartia,6,Zoop,68.45203015,23.66086582,87.59200142,Striped Bass
+Suisun Bay,Oithona,6,Zoop,62.75014246,20.78743557,84.67445369,Striped Bass
+Suisun Bay,Tortanus,6,Zoop,52.44200153,16.61470498,78.73186212,Striped Bass
+Suisun Bay,Morone saxatilis,6,Fish,61.22763359,45.45547962,78.1861193,Striped Bass
+Confluence,Morone saxatilis,6,Fish,52.57754641,26.1346397,78.16942844,Striped Bass
+Delta,Morone saxatilis,6,Fish,53.26832635,16.78939549,81.55411446,Striped Bass
+Suisun Bay,Acartiella,7,Zoop,65.43093117,45.44584802,80.09790206,Striped Bass
+Suisun Bay,Limnoithona,7,Zoop,70.23215781,55.48912202,82.08639187,Striped Bass
+Confluence,Limnoithona,7,Zoop,68.70196926,41.17853569,84.59724122,Striped Bass
+Suisun Bay,Pseudodiaptomus,7,Zoop,69.47930675,57.35185927,81.13687427,Striped Bass
+Confluence,Pseudodiaptomus,7,Zoop,63.98685587,49.07545304,79.18748497,Striped Bass
+Delta,Pseudodiaptomus,7,Zoop,52.15830586,41.5534365,65.86850507,Striped Bass
+Suisun Bay,Eurytemora,7,Zoop,59.58910402,31.70748324,81.20119862,Striped Bass
+Delta,Eurytemora,7,Zoop,71.95431164,51.38140021,84.58306634,Striped Bass
+Delta,Sinocalanus,7,Zoop,65.08435793,51.4500429,79.73300946,Striped Bass
+Delta,Bosmina,7,Zoop,66.86155496,55.77988698,79.90772187,Striped Bass
+Delta,Daphnia,7,Zoop,68.81281857,44.41925594,85.78182086,Striped Bass
+Suisun Bay,Acartia,7,Zoop,70.51717665,22.43087063,89.38698743,Striped Bass
+Suisun Bay,Oithona,7,Zoop,65.13750491,19.56913983,86.88555174,Striped Bass
+Suisun Bay,Tortanus,7,Zoop,55.2886206,15.60096323,81.76931041,Striped Bass
+Suisun Bay,Morone saxatilis,7,Fish,64.04980014,47.28549105,80.89889387,Striped Bass
+Confluence,Morone saxatilis,7,Fish,55.88581971,26.79493604,81.36216175,Striped Bass
+Delta,Morone saxatilis,7,Fish,56.46192872,16.02100136,84.42654908,Striped Bass
+Suisun Bay,Acartiella,8,Zoop,67.42147245,45.92067137,82.07115632,Striped Bass
+Suisun Bay,Limnoithona,8,Zoop,72.02796629,56.32008501,83.82904844,Striped Bass
+Confluence,Limnoithona,8,Zoop,70.53824721,40.98438427,86.30558768,Striped Bass
+Suisun Bay,Pseudodiaptomus,8,Zoop,71.51792456,58.82261783,83.06597727,Striped Bass
+Confluence,Pseudodiaptomus,8,Zoop,66.47576758,50.89653072,81.5448242,Striped Bass
+Delta,Pseudodiaptomus,8,Zoop,54.78327965,43.35580109,68.77024852,Striped Bass
+Suisun Bay,Eurytemora,8,Zoop,62.09095464,31.94278732,83.54507242,Striped Bass
+Delta,Eurytemora,8,Zoop,73.61781957,51.64173298,86.15185694,Striped Bass
+Delta,Sinocalanus,8,Zoop,67.3828833,53.02921378,81.9332781,Striped Bass
+Delta,Bosmina,8,Zoop,69.03168166,57.44636779,82.02114578,Striped Bass
+Delta,Daphnia,8,Zoop,70.78934511,44.68984335,87.53319997,Striped Bass
+Suisun Bay,Acartia,8,Zoop,72.18814883,21.37719753,90.79731148,Striped Bass
+Suisun Bay,Oithona,8,Zoop,67.08359544,18.46042383,88.62891224,Striped Bass
+Suisun Bay,Tortanus,8,Zoop,57.65721508,14.54197669,84.19009925,Striped Bass
+Suisun Bay,Morone saxatilis,8,Fish,66.36544096,48.64153281,83.06997913,Striped Bass
+Confluence,Morone saxatilis,8,Fish,58.63483663,27.06025692,83.88489935,Striped Bass
+Delta,Morone saxatilis,8,Fish,59.10581515,15.1366403,86.67555976,Striped Bass
+Suisun Bay,Acartiella,9,Zoop,69.077994,46.16741226,83.69853506,Striped Bass
+Suisun Bay,Limnoithona,9,Zoop,73.52400456,56.90440763,85.26700574,Striped Bass
+Confluence,Limnoithona,9,Zoop,72.06669412,40.66837263,87.70474179,Striped Bass
+Suisun Bay,Pseudodiaptomus,9,Zoop,73.21969746,59.97925131,84.6531866,Striped Bass
+Confluence,Pseudodiaptomus,9,Zoop,68.56558742,52.34964113,83.47861917,Striped Bass
+Delta,Pseudodiaptomus,9,Zoop,57.01146401,44.78479874,71.20971167,Striped Bass
+Suisun Bay,Eurytemora,9,Zoop,64.19837326,31.97038695,85.45355428,Striped Bass
+Delta,Eurytemora,9,Zoop,75.00030025,51.72816547,87.44240534,Striped Bass
+Delta,Sinocalanus,9,Zoop,69.31106619,54.26156865,83.74234124,Striped Bass
+Delta,Bosmina,9,Zoop,70.85348827,58.78085155,83.76387865,Striped Bass
+Delta,Daphnia,9,Zoop,72.44267636,44.76125789,88.95638551,Striped Bass
+Suisun Bay,Acartia,9,Zoop,73.57364162,20.50166008,91.93393918,Striped Bass
+Suisun Bay,Oithona,9,Zoop,68.70667087,17.49654661,90.03715297,Striped Bass
+Suisun Bay,Tortanus,9,Zoop,59.66622926,13.53036958,86.16046201,Striped Bass
+Suisun Bay,Morone saxatilis,9,Fish,68.30949939,49.6605667,84.84970293,Striped Bass
+Confluence,Morone saxatilis,9,Fish,60.96501608,27.08386879,85.92334655,Striped Bass
+Delta,Morone saxatilis,9,Fish,61.34073819,14.26097279,88.47802048,Striped Bass
+Suisun Bay,Acartiella,10,Zoop,70.4827029,46.26166435,85.06690502,Striped Bass
+Suisun Bay,Limnoithona,10,Zoop,74.79451534,57.31392766,86.47705793,Striped Bass
+Confluence,Limnoithona,10,Zoop,73.36346662,40.28945837,88.87343147,Striped Bass
+Suisun Bay,Pseudodiaptomus,10,Zoop,74.66750145,60.90430749,85.98474863,Striped Bass
+Confluence,Pseudodiaptomus,10,Zoop,70.35169956,53.52709967,85.09457869,Striped Bass
+Delta,Pseudodiaptomus,10,Zoop,58.93235584,45.93021909,73.29428636,Striped Bass
+Suisun Bay,Eurytemora,10,Zoop,66.00428069,31.86816072,87.03626826,Striped Bass
+Delta,Eurytemora,10,Zoop,76.17185866,51.70208422,88.52539537,Striped Bass
+Delta,Sinocalanus,10,Zoop,70.95817289,55.23699632,85.25796496,Striped Bass
+Delta,Bosmina,10,Zoop,72.41080044,59.86667976,85.22797415,Striped Bass
+Delta,Daphnia,10,Zoop,73.8517618,44.70438884,90.1355416,Striped Bass
+Suisun Bay,Acartia,10,Zoop,74.74469957,19.786341,92.86838372,Striped Bass
+Suisun Bay,Oithona,10,Zoop,70.08506722,16.67955737,91.19657492,Striped Bass
+Suisun Bay,Tortanus,10,Zoop,61.39687129,12.61001273,87.79145525,Striped Bass
+Suisun Bay,Morone saxatilis,10,Fish,69.97150653,50.43296053,86.33643279,Striped Bass
+Confluence,Morone saxatilis,10,Fish,62.97214943,26.96259058,87.60017052,Striped Bass
+Delta,Morone saxatilis,10,Fish,63.26187537,13.45071864,89.94955108,Striped Bass
+Suisun Bay,Acartiella,1,Zoop,24.08026798,15.70685751,36.66931127,Threadfin shad
+Suisun Bay,Limnoithona,1,Zoop,25.63042974,18.37073477,36.40227108,Threadfin shad
+Confluence,Limnoithona,1,Zoop,25.97739771,15.33996177,40.16847108,Threadfin shad
+Suisun Bay,Pseudodiaptomus,1,Zoop,22.89063788,15.82366618,32.84295223,Threadfin shad
+Confluence,Pseudodiaptomus,1,Zoop,13.50186723,7.302035683,23.06449803,Threadfin shad
+Delta,Pseudodiaptomus,1,Zoop,5.000425528,2.810571476,9.343838214,Threadfin shad
+Suisun Bay,Eurytemora,1,Zoop,33.40721245,21.57050807,47.17897954,Threadfin shad
+Delta,Eurytemora,1,Zoop,36.63729879,26.47675151,47.92925126,Threadfin shad
+Delta,Sinocalanus,1,Zoop,21.23046916,13.54847954,31.88420479,Threadfin shad
+Delta,Bosmina,1,Zoop,25.41797003,19.012431,34.95394486,Threadfin shad
+Delta,Daphnia,1,Zoop,29.01877421,17.65910398,44.14074107,Threadfin shad
+Suisun Bay,Acartia,1,Zoop,26.98949274,11.49203513,46.56887007,Threadfin shad
+Suisun Bay,Oithona,1,Zoop,13.68181437,5.037401012,29.46744616,Threadfin shad
+Suisun Bay,Tortanus,1,Zoop,10.07925384,2.822437838,25.59615578,Threadfin shad
+Suisun Bay,Dorosoma petenense,1,Fish,18.97544314,5.518844155,39.66860178,Threadfin shad
+Confluence,Dorosoma petenense,1,Fish,30.92613302,19.20816152,45.45738242,Threadfin shad
+Delta,Dorosoma petenense,1,Fish,26.61488435,17.82419826,38.43369806,Threadfin shad
+Suisun Bay,Acartiella,2,Zoop,40.65495098,30.18300889,56.09863198,Threadfin shad
+Suisun Bay,Limnoithona,2,Zoop,42.20124192,33.45682985,55.05994739,Threadfin shad
+Confluence,Limnoithona,2,Zoop,42.35684366,28.21249,58.81154025,Threadfin shad
+Suisun Bay,Pseudodiaptomus,2,Zoop,40.20991327,31.37149702,52.67315363,Threadfin shad
+Confluence,Pseudodiaptomus,2,Zoop,29.84298887,19.92896091,44.00712091,Threadfin shad
+Delta,Pseudodiaptomus,2,Zoop,16.06484912,11.37212162,25.40428501,Threadfin shad
+Suisun Bay,Eurytemora,2,Zoop,49.28133168,34.13503735,64.11502745,Threadfin shad
+Delta,Eurytemora,2,Zoop,51.85177843,39.39638674,63.7663966,Threadfin shad
+Delta,Sinocalanus,2,Zoop,38.43429671,28.32083951,52.12916468,Threadfin shad
+Delta,Bosmina,2,Zoop,41.7446139,33.95447925,53.58359897,Threadfin shad
+Delta,Daphnia,2,Zoop,45.47373265,31.19839764,62.76958663,Threadfin shad
+Suisun Bay,Acartia,2,Zoop,43.13453707,21.46825552,66.07020557,Threadfin shad
+Suisun Bay,Oithona,2,Zoop,27.04531129,12.26752163,50.63430286,Threadfin shad
+Suisun Bay,Tortanus,2,Zoop,23.65103689,10.35219492,47.60310166,Threadfin shad
+Suisun Bay,Dorosoma petenense,2,Fish,35.54221809,15.05704959,60.98314201,Threadfin shad
+Confluence,Dorosoma petenense,2,Fish,47.6971718,33.95452475,63.76465642,Threadfin shad
+Delta,Dorosoma petenense,2,Fish,43.32530539,32.77366677,57.04518898,Threadfin shad
+Suisun Bay,Acartiella,3,Zoop,49.88770331,38.19861957,66.16400156,Threadfin shad
+Suisun Bay,Limnoithona,3,Zoop,51.196322,41.45011825,64.65391754,Threadfin shad
+Confluence,Limnoithona,3,Zoop,51.23667585,34.10640966,68.2280543,Threadfin shad
+Suisun Bay,Pseudodiaptomus,3,Zoop,49.93719048,40.42731432,63.13503178,Threadfin shad
+Confluence,Pseudodiaptomus,3,Zoop,40.33727991,28.79118036,56.17098485,Threadfin shad
+Delta,Pseudodiaptomus,3,Zoop,25.03796177,19.06801724,37.1247925,Threadfin shad
+Suisun Bay,Eurytemora,3,Zoop,57.40568747,39.16613557,72.35499792,Threadfin shad
+Delta,Eurytemora,3,Zoop,59.55091075,44.87042828,71.51473246,Threadfin shad
+Delta,Sinocalanus,3,Zoop,48.37098559,37.28054794,62.97877556,Threadfin shad
+Delta,Bosmina,3,Zoop,50.82036139,42.33875544,63.40350727,Threadfin shad
+Delta,Daphnia,3,Zoop,54.29815322,37.8878044,72.00093082,Threadfin shad
+Suisun Bay,Acartia,3,Zoop,52.27128837,25.99766591,75.7457555,Threadfin shad
+Suisun Bay,Oithona,3,Zoop,36.08472663,16.66574969,62.80524698,Threadfin shad
+Suisun Bay,Tortanus,3,Zoop,33.03841005,15.13093685,60.31876097,Threadfin shad
+Suisun Bay,Dorosoma petenense,3,Fish,45.22704828,19.19615152,71.70646977,Threadfin shad
+Confluence,Dorosoma petenense,3,Fish,56.52063198,41.49196775,72.72898516,Threadfin shad
+Delta,Dorosoma petenense,3,Fish,52.36021569,40.76404319,66.51217587,Threadfin shad
+Suisun Bay,Acartiella,4,Zoop,55.90916957,43.07856745,72.46139673,Threadfin shad
+Suisun Bay,Limnoithona,4,Zoop,56.99676919,46.24224899,70.66857626,Threadfin shad
+Confluence,Limnoithona,4,Zoop,56.95068948,36.91127314,74.06843289,Threadfin shad
+Suisun Bay,Pseudodiaptomus,4,Zoop,56.29331693,46.29491518,69.73635413,Threadfin shad
+Confluence,Pseudodiaptomus,4,Zoop,47.57733001,34.97359248,64.11944942,Threadfin shad
+Delta,Pseudodiaptomus,4,Zoop,31.88962972,25.03660334,45.62908933,Threadfin shad
+Suisun Bay,Eurytemora,4,Zoop,62.50821864,41.32458449,77.39898245,Threadfin shad
+Delta,Eurytemora,4,Zoop,64.35946085,47.52637521,76.28787039,Threadfin shad
+Delta,Sinocalanus,4,Zoop,54.94144489,43.16204114,69.85166063,Threadfin shad
+Delta,Bosmina,4,Zoop,56.73573821,47.63744233,69.62025077,Threadfin shad
+Delta,Daphnia,4,Zoop,59.96496841,41.52191602,77.64888633,Threadfin shad
+Suisun Bay,Acartia,4,Zoop,58.28604962,27.75115987,81.56830073,Threadfin shad
+Suisun Bay,Oithona,4,Zoop,42.52278438,18.52613395,70.64925978,Threadfin shad
+Suisun Bay,Tortanus,4,Zoop,39.74237109,17.02140956,68.53043738,Threadfin shad
+Suisun Bay,Dorosoma petenense,4,Fish,51.66132286,20.21115294,78.21471456,Threadfin shad
+Confluence,Dorosoma petenense,4,Fish,62.14164653,45.86842845,78.19150214,Threadfin shad
+Delta,Dorosoma petenense,4,Fish,58.17759645,45.5654918,72.40900131,Threadfin shad
+Suisun Bay,Acartiella,5,Zoop,60.22289943,46.26492358,76.83053002,Threadfin shad
+Suisun Bay,Limnoithona,5,Zoop,61.12522067,49.35504083,74.86286483,Threadfin shad
+Confluence,Limnoithona,5,Zoop,61.00715269,38.21265048,78.10586295,Threadfin shad
+Suisun Bay,Pseudodiaptomus,5,Zoop,60.84893512,50.40718823,74.34334277,Threadfin shad
+Confluence,Pseudodiaptomus,5,Zoop,52.92093947,39.4719052,69.75700069,Threadfin shad
+Delta,Pseudodiaptomus,5,Zoop,37.24300156,29.62599994,52.06192468,Threadfin shad
+Suisun Bay,Eurytemora,5,Zoop,66.07936234,42.18510709,80.86529568,Threadfin shad
+Delta,Eurytemora,5,Zoop,67.71049746,48.86757598,79.58880255,Threadfin shad
+Delta,Sinocalanus,5,Zoop,59.68118183,47.29804075,74.64853695,Threadfin shad
+Delta,Bosmina,5,Zoop,60.97172698,51.26648857,73.97675239,Threadfin shad
+Delta,Daphnia,5,Zoop,63.98974033,43.60459521,81.50643122,Threadfin shad
+Suisun Bay,Acartia,5,Zoop,62.61863206,28.13738259,85.45601793,Threadfin shad
+Suisun Bay,Oithona,5,Zoop,47.37044162,18.84338833,76.12023987,Threadfin shad
+Suisun Bay,Tortanus,5,Zoop,44.78829453,17.20153274,74.26997988,Threadfin shad
+Suisun Bay,Dorosoma petenense,5,Fish,56.31577499,19.79978272,82.59458207,Threadfin shad
+Confluence,Dorosoma petenense,5,Fish,66.11624022,48.61835501,81.91648127,Threadfin shad
+Delta,Dorosoma petenense,5,Fish,62.31464348,48.68911871,76.49987066,Threadfin shad
+Suisun Bay,Acartiella,6,Zoop,63.50581169,48.44204671,80.06425869,Threadfin shad
+Suisun Bay,Limnoithona,6,Zoop,64.253593,51.48191461,77.98736226,Threadfin shad
+Confluence,Limnoithona,6,Zoop,64.07232482,38.72060253,81.09000695,Threadfin shad
+Suisun Bay,Pseudodiaptomus,6,Zoop,64.31568107,53.44743598,77.76948269,Threadfin shad
+Confluence,Pseudodiaptomus,6,Zoop,57.06224127,42.86833152,73.98269486,Threadfin shad
+Delta,Pseudodiaptomus,6,Zoop,41.54719966,33.20236502,57.11190592,Threadfin shad
+Suisun Bay,Eurytemora,6,Zoop,68.75135803,42.39910048,83.42022279,Threadfin shad
+Delta,Eurytemora,6,Zoop,70.20833856,49.51786575,82.03710503,Threadfin shad
+Delta,Sinocalanus,6,Zoop,63.30245044,50.35202194,78.20996971,Threadfin shad
+Delta,Bosmina,6,Zoop,64.19433574,53.88846359,77.23087881,Threadfin shad
+Delta,Daphnia,6,Zoop,67.0355621,44.81647253,84.3253217,Threadfin shad
+Suisun Bay,Acartia,6,Zoop,65.92717268,27.8490878,88.22550285,Threadfin shad
+Suisun Bay,Oithona,6,Zoop,51.17959532,18.33660194,80.14643167,Threadfin shad
+Suisun Bay,Tortanus,6,Zoop,48.74832098,16.51218266,78.50365084,Threadfin shad
+Suisun Bay,Dorosoma petenense,6,Fish,59.87896641,18.80008109,85.73902598,Threadfin shad
+Confluence,Dorosoma petenense,6,Fish,69.11560671,50.43009358,84.63716157,Threadfin shad
+Delta,Dorosoma petenense,6,Fish,65.44778429,50.82910916,79.53333936,Threadfin shad
+Suisun Bay,Acartiella,7,Zoop,66.111354,49.97361322,82.56581355,Threadfin shad
+Suisun Bay,Limnoithona,7,Zoop,66.72870645,52.98335858,80.42193707,Threadfin shad
+Confluence,Limnoithona,7,Zoop,66.49027177,38.78947416,83.39809835,Threadfin shad
+Suisun Bay,Pseudodiaptomus,7,Zoop,67.06621087,55.78208215,80.43113123,Threadfin shad
+Confluence,Pseudodiaptomus,7,Zoop,60.3888252,45.50841856,77.27691528,Threadfin shad
+Delta,Pseudodiaptomus,7,Zoop,45.09526994,36.0341105,61.19512179,Threadfin shad
+Suisun Bay,Eurytemora,7,Zoop,70.84332435,42.27561221,85.39413604,Threadfin shad
+Delta,Eurytemora,7,Zoop,72.15702922,49.77864383,83.9404544,Threadfin shad
+Delta,Sinocalanus,7,Zoop,66.18321084,52.68795617,80.96954815,Threadfin shad
+Delta,Bosmina,7,Zoop,66.75116354,55.85484695,79.77033552,Threadfin shad
+Delta,Daphnia,7,Zoop,69.44320533,45.50556606,86.48169223,Threadfin shad
+Suisun Bay,Acartia,7,Zoop,68.55887494,27.2392934,90.28760938,Threadfin shad
+Suisun Bay,Oithona,7,Zoop,54.2708644,17.43704987,83.22508485,Threadfin shad
+Suisun Bay,Tortanus,7,Zoop,51.95704785,15.44044456,81.74905699,Threadfin shad
+Suisun Bay,Dorosoma petenense,7,Fish,62.71801842,17.61237242,88.09867304,Threadfin shad
+Confluence,Dorosoma petenense,7,Fish,71.48188149,51.65720032,86.71861225,Threadfin shad
+Delta,Dorosoma petenense,7,Fish,67.92564538,52.34727105,81.88691516,Threadfin shad
+Suisun Bay,Acartiella,8,Zoop,68.24400348,51.0703818,84.56417598,Threadfin shad
+Suisun Bay,Limnoithona,8,Zoop,68.74969121,54.06547548,82.38176368,Threadfin shad
+Confluence,Limnoithona,8,Zoop,68.45857175,38.61061396,85.24292299,Threadfin shad
+Suisun Bay,Pseudodiaptomus,8,Zoop,69.31646095,57.62601474,82.56572761,Threadfin shad
+Confluence,Pseudodiaptomus,8,Zoop,63.13452942,47.60766676,79.92108975,Threadfin shad
+Delta,Pseudodiaptomus,8,Zoop,48.08099236,38.30899221,64.57474734,Threadfin shad
+Suisun Bay,Eurytemora,8,Zoop,72.5357975,41.97497418,86.97164992,Threadfin shad
+Delta,Eurytemora,8,Zoop,73.72820567,49.81080475,85.47104793,Threadfin shad
+Delta,Sinocalanus,8,Zoop,68.54436508,54.52226904,83.17570747,Threadfin shad
+Delta,Bosmina,8,Zoop,68.84325809,57.3701022,81.81627546,Threadfin shad
+Delta,Daphnia,8,Zoop,71.40780424,45.86629217,88.18673507,Threadfin shad
+Suisun Bay,Acartia,8,Zoop,70.71607517,26.49400106,91.87316398,Threadfin shad
+Suisun Bay,Oithona,8,Zoop,56.84287303,16.3891493,85.64750455,Threadfin shad
+Suisun Bay,Tortanus,8,Zoop,54.62229857,14.25133734,84.30942283,Threadfin shad
+Suisun Bay,Dorosoma petenense,8,Fish,65.04812753,16.42528292,89.92733097,Threadfin shad
+Confluence,Dorosoma petenense,8,Fish,73.40993659,52.49959897,88.36517487,Threadfin shad
+Delta,Dorosoma petenense,8,Fish,69.94820587,53.45040287,83.77387874,Threadfin shad
+Suisun Bay,Acartiella,9,Zoop,70.03121835,51.86277408,86.20003253,Threadfin shad
+Suisun Bay,Limnoithona,9,Zoop,70.44000495,54.85467414,83.99889165,Threadfin shad
+Confluence,Limnoithona,9,Zoop,70.09971296,38.29326956,86.75462207,Threadfin shad
+Suisun Bay,Pseudodiaptomus,9,Zoop,71.20116506,59.11408501,84.31961387,Threadfin shad
+Confluence,Pseudodiaptomus,9,Zoop,65.44938006,49.30701998,82.09187516,Threadfin shad
+Delta,Pseudodiaptomus,9,Zoop,50.63653641,40.15912394,67.42502651,Threadfin shad
+Suisun Bay,Eurytemora,9,Zoop,73.93951623,41.5854012,88.26495206,Threadfin shad
+Delta,Eurytemora,9,Zoop,75.02697374,49.70636099,86.73368791,Threadfin shad
+Delta,Sinocalanus,9,Zoop,70.52458193,55.99201321,84.98202623,Threadfin shad
+Delta,Bosmina,9,Zoop,70.59592159,58.56165278,83.50508192,Threadfin shad
+Delta,Daphnia,9,Zoop,73.05011982,46.01453064,89.5690956,Threadfin shad
+Suisun Bay,Acartia,9,Zoop,72.52558007,25.71289008,93.12243405,Threadfin shad
+Suisun Bay,Oithona,9,Zoop,59.02550027,15.32657205,87.59623169,Threadfin shad
+Suisun Bay,Tortanus,9,Zoop,56.88011654,13.08263572,86.37478032,Threadfin shad
+Suisun Bay,Dorosoma petenense,9,Fish,67.00465431,15.32347931,91.37960788,Threadfin shad
+Confluence,Dorosoma petenense,9,Fish,75.01991479,53.07858333,89.70105874,Threadfin shad
+Delta,Dorosoma petenense,9,Fish,71.63936893,54.26508137,85.3248401,Threadfin shad
+Suisun Bay,Acartiella,10,Zoop,71.5570793,52.43569832,87.56508787,Threadfin shad
+Suisun Bay,Limnoithona,10,Zoop,71.88075956,55.43275404,85.35936826,Threadfin shad
+Confluence,Limnoithona,10,Zoop,71.49415434,37.90226233,88.01775193,Threadfin shad
+Suisun Bay,Pseudodiaptomus,10,Zoop,72.8092601,60.33548133,85.78842003,Threadfin shad
+Confluence,Pseudodiaptomus,10,Zoop,67.43445396,50.7024975,83.90623288,Threadfin shad
+Delta,Pseudodiaptomus,10,Zoop,52.85495362,41.67919811,69.86600661,Threadfin shad
+Suisun Bay,Eurytemora,10,Zoop,75.12663989,41.15726553,89.34659724,Threadfin shad
+Delta,Eurytemora,10,Zoop,76.12172891,49.52056813,87.79625594,Threadfin shad
+Delta,Sinocalanus,10,Zoop,72.21580807,57.18839264,86.48905671,Threadfin shad
+Delta,Bosmina,10,Zoop,72.09180354,59.51323674,84.92594589,Threadfin shad
+Delta,Daphnia,10,Zoop,74.44938809,46.02278502,90.71204632,Threadfin shad
+Suisun Bay,Acartia,10,Zoop,74.07138747,24.94911914,94.12581055,Threadfin shad
+Suisun Bay,Oithona,10,Zoop,60.90751435,14.31893011,89.19176697,Threadfin shad
+Suisun Bay,Tortanus,10,Zoop,58.82352243,12.00103511,88.07060784,Threadfin shad
+Suisun Bay,Dorosoma petenense,10,Fish,68.67748655,14.33982751,92.55538531,Threadfin shad
+Confluence,Dorosoma petenense,10,Fish,76.39042332,53.47177353,90.80654461,Threadfin shad
+Delta,Dorosoma petenense,10,Fish,73.08049992,54.87294701,86.62475203,Threadfin shad

@@ -1,0 +1,64 @@
+Station,Group,Taxa,Region,Start Collection Year,End Collection Year,Total Years of Collection,Mean CPUE,Occurences,Latitude,Longitude
+101,Fish,Engraulis mordax,South Bay,1995,2020,26,424.2,233,37.5355,-122.1662667
+102,Fish,Engraulis mordax,South Bay,1995,2020,26,472.32,210,37.5833,-122.2083
+103,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",South Bay,1995,2020,"22, 23, 26","26.32, 17.33, 726.88","60, 63, 192",37.6033,-122.3028
+104,Fish,Engraulis mordax,South Bay,1995,2020,25,212.57,198,37.6797,-122.2367
+105,Fish,Engraulis mordax,South Bay,1995,2020,26,297.63,199,37.7195,-122.2708
+106,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",South Bay,1995,2020,"24, 25","47.29, 87.67, 481.43","81, 87, 173",37.702,-122.3667
+107,Fish,Engraulis mordax,South Bay,1995,2020,26,912.69,218,37.605,-122.2858
+108,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",South Bay,1995,"2020, 2017","20, 23, 26","29.36, 55.17, 683.75","71, 86, 208",37.6758,-122.3297
+109,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",Central Bay,"1996, 1995",2020,24,"84.51, 196.55, 1427.47","79, 138, 178",37.7392,-122.3533
+110,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"25, 26","22.66, 114.80, 1605.33","72, 126, 212",37.78818333,-122.3561833
+140,Fish,"Clupea pallasii, Engraulis mordax",South Bay,"1996, 1995","2017, 2020","20, 26","33.35, 329.82","52, 237",37.50185,-122.1161833
+142,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"25, 23, 26","46.17, 39.63, 730.13","90, 75, 190",37.76183333,-122.3053333
+212,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"25, 24","28.01, 54.76, 436.44","76, 97, 191",37.8545,-122.3527
+213,Fish,"Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"23, 24","266.17, 1935.34","85, 129",37.8325,-122.4271667
+214,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",Central Bay,"1996, 1995",2020,"22, 23, 25","32.17, 164.77, 1410.45","68, 108, 157",37.86566667,-122.4016667
+215,Fish,"Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"24, 25","139.34, 1175.83","96, 183",37.888,-122.4242
+216,Fish,"Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"23, 25","144.94, 1425.38","104, 192",37.9208,-122.4363
+243,Fish,"Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"24, 26","146.59, 1857.97","89, 179",37.8842,-122.4012
+244,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",Central Bay,1995,2020,"23, 24, 26","63.22, 73.08, 680.26","65, 93, 174",37.9237,-122.468
+317,Fish,"Atherinopsis californiensis, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,2020,"22, 24, 26","22.39, 128.69, 683.31","55, 97, 201",37.98901667,-122.4090333
+318,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,2020,"21, 23, 26","13.91, 118.11, 614.35","52, 87, 217",38.0213,-122.345
+319,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,"2020, 2017","23, 26","20.06, 33.45, 348.99","69, 73, 173",38.0403,-122.2855
+320,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,2020,"20, 24, 26","13.57, 19.06, 255.38","55, 72, 181",38.06266667,-122.3171667
+321,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,2020,"22, 23, 26","13.38, 38.87, 324.48","66, 76, 274",38.0662,-122.3675
+322,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,"2020, 2017","23, 22, 26","9.85, 49.88, 260.78","70, 81, 287",38.053,-122.4138
+323,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,2020,"21, 24, 26","14.05, 95.16, 612.66","68, 95, 279",38.0187,-122.43
+325,Fish,"Alosa sapidissima, Clupea pallasii, Engraulis mordax, Spirinchus thaleichthys",San Pablo Bay,1995,2020,"19, 25, 26, 20","8.69, 47.71, 423.35, 74.91","51, 96, 287, 78",38.03,-122.3717
+345,Fish,"Clupea pallasii, Engraulis mordax",San Pablo Bay,1995,2020,"23, 26","136.81, 1278.79","106, 216",37.9975,-122.4242
+427,Fish,"Alosa sapidissima, Engraulis mordax, Morone saxatilis, Spirinchus thaleichthys",Suisun Bay,"1996, 1995",2020,"23, 24, 25, 20","10.68, 61.00, 18.86, 35.04","57, 122, 71, 62",38.0355,-122.1522
+428,Fish,"Alosa sapidissima, Engraulis mordax, Morone saxatilis, Spirinchus thaleichthys",Suisun Bay,1995,2020,"24, 25, 20","8.91, 42.11, 17.33, 43.85","71, 103, 80, 64",38.062,-122.1053
+429,Fish,"Alosa sapidissima, Engraulis mordax, Morone saxatilis, Spirinchus thaleichthys",Suisun Bay,"1995, 1996",2020,"25, 24, 26, 20","9.92, 21.61, 12.08, 36.17","69, 73, 89, 52",38.08583333,-122.0768333
+430,Fish,"Alosa sapidissima, Morone saxatilis",Suisun Bay,1995,2020,"25, 22","16.43, 15.39","78, 85",38.1082,-122.055
+431,Fish,"Alosa sapidissima, Morone saxatilis",Suisun Bay,1995,2020,"25, 24","17.08, 16.82","91, 75",38.1052,-122.028
+432,Fish,"Alosa sapidissima, Engraulis mordax, Morone saxatilis",Suisun Bay,1995,2020,"25, 24, 26","19.70, 32.13, 13.04","77, 78, 100",38.0425,-122.108
+433,Fish,"Alosa sapidissima, Morone saxatilis",Suisun Bay,1995,2020,"25, 24","11.48, 7.91","71, 87",38.06011667,-121.9828167
+447,Fish,"Alosa sapidissima, Engraulis mordax",Suisun Bay,1995,2020,"24, 25","14.03, 119.62","76, 121",38.05591667,-122.1783333
+534,Fish,"Alosa sapidissima, Dorosoma petenense, Morone saxatilis",Suisun Bay,1995,2020,"25, 24","25.20, 21.64, 16.53","101, 60, 71",38.07145,-121.9562
+535,Fish,"Alosa sapidissima, Morone saxatilis",Confluence,1995,2020,"24, 25","19.73, 12.02","77, 90",38.04731667,-121.9176667
+736,Fish,"Alosa sapidissima, Dorosoma petenense, Morone saxatilis",Confluence,1995,2020,"25, 26","54.46, 17.36, 10.65","102, 67, 83",38.06033333,-121.8043333
+750,Fish,"Alosa sapidissima, Dorosoma petenense, Morone saxatilis",Delta,1995,2020,"24, 23","65.59, 43.03, 12.17","104, 67, 66",38.08466667,-121.75
+751,Fish,"Alosa sapidissima, Dorosoma petenense, Morone saxatilis",Delta,1995,2020,"25, 22, 23","118.52, 24.62, 10.63","113, 69, 65",38.1055,-121.717
+752,Fish,"Alosa sapidissima, Dorosoma petenense",Delta,"1995, 1997",2020,"25, 23","126.31, 45.59","111, 75",38.1042,-121.7125
+760,Fish,"Alosa sapidissima, Dorosoma petenense",Delta,1995,2020,"24, 18","99.07, 32.41","98, 55",38.15233333,-121.6848333
+837,Fish,"Alosa sapidissima, Dorosoma petenense",Confluence,1995,2020,"25, 24","52.72, 42.45","90, 86",38.0245,-121.76
+853,Fish,"Alosa sapidissima, Dorosoma petenense, Morone saxatilis",Confluence,1995,2020,25,"42.31, 53.83, 10.02","95, 74, 72",38.0285,-121.737
+863,Fish,"Alosa sapidissima, Dorosoma petenense",Delta,1995,"2020, 2017","25, 23","120.89, 50.89","88, 69",38.09145,-121.6511
+864,Fish,"Alosa sapidissima, Dorosoma petenense",Delta,1995,2020,"25, 23","87.70, 19.66","91, 70",38.10116667,-121.598
+865,Fish,"Alosa sapidissima, Dorosoma petenense",Delta,1995,2020,25,"78.23, 45.09","76, 74",38.08666667,-121.5763333
+NZ028,Zooplankton,"Acartiella, Limnoithona, Pseudodiaptomus",Suisun Bay,1995,2021,27,"297.99, 167.69, 948.75","255, 266, 283",38.11722222,-122.0472222
+NZ032,Zooplankton,"Acartiella, Eurytemora, Limnoithona, Pseudodiaptomus",Suisun Bay,1995,2021,27,"507.73, 894.03, 199.39, 1164.19","236, 249, 262, 292",38.17027778,-122.0208333
+NZ048,Zooplankton,"Acartiella, Limnoithona, Pseudodiaptomus",Suisun Bay,1995,2021,27,"427.18, 400.88, 501.34","239, 278, 280",38.06,-121.9958333
+NZ054,Zooplankton,"Limnoithona, Pseudodiaptomus",Confluence,1995,2021,27,"1088.78, 833.34","261, 280",38.04583333,-121.9063889
+NZ060,Zooplankton,"Limnoithona, Pseudodiaptomus",Confluence,1995,2021,27,"523.99, 1159.26","236, 300",38.06444444,-121.8288889
+NZ064,Zooplankton,"Pseudodiaptomus, Sinocalanus",Delta,1995,2021,27,"1364.76, 373.55","284, 247",38.08472222,-121.7380556
+NZ074,Zooplankton,Pseudodiaptomus,Confluence,1995,2021,27,1842.4,291,38.02222222,-121.8036111
+NZ086,Zooplankton,"Bosmina, Pseudodiaptomus, Sinocalanus",Delta,1995,2021,27,"193.96, 3875.97, 163.92","306, 309, 263",38.07777778,-121.5702778
+NZ092,Zooplankton,"Bosmina, Daphnia, Eurytemora, Pseudodiaptomus",Delta,1995,2021,27,"2960.21, 993.19, 1208.39, 5728.68","308, 293, 260, 290",37.97833333,-121.3819444
+NZD06,Zooplankton,"Acartia, Oithona, Pseudodiaptomus, Tortanus",Suisun Bay,1995,2021,27,"1089.47, 670.43, 282.4, 180.29","277, 273, 294, 259",38.04444444,-122.1166667
+NZD16,Zooplankton,"Bosmina, Pseudodiaptomus, Sinocalanus",Delta,1995,2021,27,"146.92, 3302.99, 264.95","301, 309, 268",38.09722222,-121.6666667
+NZD28,Zooplankton,"Bosmina, Daphnia, Eurytemora, Pseudodiaptomus, Sinocalanus",Delta,1995,2021,27,"118.35, 115.97, 343.76, 3404.42, 166.17","298, 244, 302, 274",37.98277778,-121.5772222
+NZD41,Zooplankton,"Acartia, Oithona, Pseudodiaptomus",San Pablo Bay,1998,2021,24,"3328.01, 2020.39, 610.67","275, 269, 257",38.03555556,-122.3708333
+NZM10,Zooplankton,"Bosmina, Eurytemora, Pseudodiaptomus",Delta,1995,2021,27,"1672.33, 2246.24, 9379.88","305, 279, 311",38.04361111,-121.4263889
+NZS42,Zooplankton,"Eurytemora, Limnoithona, Pseudodiaptomus",Suisun Bay,1995,2021,27,"1411.95, 107.88, 974.50","269, 255, 293",38.18055556,-122.0472222
