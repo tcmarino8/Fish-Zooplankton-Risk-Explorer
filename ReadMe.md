@@ -126,7 +126,7 @@ Run the following in R
 install.packages(c(
   shiny, shinydashboard, shinyWidgets, leaflet, dplyr, 
   ggplot2, tidyverse, readxl, sf, raster, sp, 
-  DT, RColorBrewer, patchwork, rsconnect
+  DT, RColorBrewer, patchwork, rsconnect, markdown
 ))
 
 ```
