@@ -21,8 +21,8 @@ Visualize spatial distributions of fish and zooplankton sampling stations across
 - Interactive region and taxa filters  
 - Hover tooltips reveal station metadata
   #### SideBar Selections:
-   - Display Fish Sataions(checkbox TRUE/FALSE)
-   - Display Zooplankton Sataions(checkbox TRUE/FAlSE)
+   - Display Fish Stations(checkbox TRUE/FALSE)
+   - Display Zooplankton Stations(checkbox TRUE/FAlSE)
    - Select Regions(SelectInputs multiple = TRUE)
    
    
@@ -68,8 +68,8 @@ Includes
 - Mean CPUE (Catch Per Unit Effort)  
 - Number of non-zero occurrences
  #### SideBar Selections:
-   - Display Fish Sataions(checkbox TRUE/FALSE)
-   - Display Zooplankton Sataions(checkbox TRUE/FAlSE)
+   - Display Fish Stations(checkbox TRUE/FALSE)
+   - Display Zooplankton Stations(checkbox TRUE/FAlSE)
    - Select Regions(SelectInputs multiple = TRUE)
    - Select Fish(checkbox multiple = TRUE)
    - Select Zooplankton(checkbox multiple = TRUE)
@@ -95,7 +95,7 @@ Links to data and code repositories, manuscript details, and citation informatio
 ---
 
 
-## App Ciation
+## App Citation
 
 'Marino, T.C., Fournier, R.J., Carlson, S.M., & Ruhí, A. (2025)
 Bay-Delta Data Explorer: Phenology-informed decline risk of estuarine fishes and their prey suggests potential for future trophic mismatches.
