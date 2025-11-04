@@ -106,7 +106,7 @@ Links to data and code repositories, manuscript details, and citation informatio
 
 'Marino, T.C., Fournier, R.J., Carlson, S.M., & Ruhí, A. (2025)
 Bay-Delta Data Explorer: Phenology-informed decline risk of estuarine fishes and their prey suggests potential for future trophic mismatches.
-https://12022001delta.shinyapps.io/DeclineRisk/'
+https://baydelta.shinyapps.io/Fish-Zooplankton-Risk-Explorer/'
 
 ## Bug Reporting
 'If you encounter any bugs or have questions about the app, please contact:
