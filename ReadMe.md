@@ -5,7 +5,7 @@ Phenology-informed decline risk of estuarine fishes and their prey suggests pote
 ---
 
 ##  Overview
-The Bay-Delta Data Explorer is an interactive R Shiny application designed to visualize and explore ecological risk data from the San Francisco Estuary. It provides insights into seasonal (phenological) patterns, decline risks, and spatial distributions of fish and zooplankton species.  
+The Fish-Zooplankton Risk Explorer Explorer is an interactive R Shiny application designed to visualize and explore ecological risk data from the San Francisco Estuary as calculated in Fournier et al. 2025, Ecological Applications. It explores how phenological patterns of age-0 fishes and their prey might inform our understanding of critical decline risk throughout the region.
 
 This app accompanies the manuscript  
  Fournier, R.J., Marino, T.C., Carlson, S.M., & Ruhí, A. “Phenology-informed decline risk of estuarine fishes and their prey suggests potential for future trophic mismatches.” Ecological Applications, in press.
@@ -15,7 +15,8 @@ This app accompanies the manuscript
 ##  Key Features
 
 ###  Map  
-Visualize spatial distributions of fish and zooplankton sampling stations across estuarine regions
+Visualize fish and zooplankton sampling stations within the San Francisco Estuary. Fish sampling is undertaken by the CDFW Bay study, while zooplankton sampling is performed by the IEP EMP. 
+
 - Fish stations shown in black  
 - Zooplankton stations shown in maroon  
 - Interactive region and taxa filters  
@@ -28,7 +29,7 @@ Visualize spatial distributions of fish and zooplankton sampling stations across
    
 
 ### Phenology of Risk  
-This visualizes how the probability of a critical population decline (≥90% drop) changes month by month for each fish species across estuarine regions.
+This visualizes how the probability of a critical population decline (≥90% drop) changes month by month for each fish species across estuarine regions. Critical decline risk is calculated using intrinsic growth rate and process error variance estimated using multivariate autoregressive (MAR) models fitted to fish and zooplankton abundance time series. 
 
 - Points scale by the percentage of annual catch  
 - Saturated colors = high-abundance months (80% annual catch window)  
@@ -38,9 +39,11 @@ This visualizes how the probability of a critical population decline (≥90% dro
    - Select Fish(checkbox multiple = TRUE)
    - Months(SliderInput multiple = TRUE)
 
+
 ###  1-Year Risk Predictions  
-This plot compares present-day (near-term) decline risk between fish predators and their zooplankton prey within their shared high-abundance windows.
-Each point or bar pairs a fish with its co-occurring prey community.
+This plot compares present-day (near-term) decline risk between fish predators and their zooplankton prey within their shared high-abundance windows. High-abundance windows are defined as clusters of months which contain 80% of yearly catch across the time series.
+
+Each point with associated uncertainty bars pairs a fish with its co-occurring prey community.
 - Error bars represent “best-case” and “worst-case” model uncertainty bounds
     #### SideBar Selections:
    - Select Regions(checkbox multiple = TRUE)
@@ -63,7 +66,7 @@ A 10-year projection of critical decline risk for fish and zooplankton assemblag
 
 ###  Station Data  
 Tabular metadata summarizing the datasets used in modeling.  
-Includes
+Includes:
 - Taxa  
 - Region  
 - StartEnd collection years  
@@ -87,13 +90,14 @@ Links to data and code repositories, manuscript details, and citation informatio
 
 ##  Data Sources
 
-- Fish data California Department of Fish and Wildlife (Bay Study)  
-- Zooplankton data Interagency Ecological Program (Environmental Monitoring Program)  
+- Fish data via [California Department of Fish and WildlifeBay Study](https://wildlife.ca.gov/Conservation/Delta/Bay-Study)
+- Zooplankton data via [Interagency Ecological Program (Environmental Monitoring Program)](https://wildlife.ca.gov/Conservation/Delta/Bay-Study)
 - Modeled data Fournier et al. (in press)
 
+
 ### Access Datasets and Code
-- Data [Dryad Repository (private for peer review)](httpdatadryad.orgstashsharezfLH561PA-zI0Kf_JAgr9gk9ejY2f3ecASN0zvp_vjM)  
-- Code [Zenodo Repository (private for peer review)](httpszenodo.org)
+- Data [Dryad Repository](https://datadryad.org/landing/show?id=doi%3A10.5061%2Fdryad.4j0zpc8nd)  
+- Code [Zenodo Repository ](https://zenodo.org/records/13800013)
 
 ---
 
